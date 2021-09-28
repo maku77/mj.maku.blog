@@ -1,0 +1,17 @@
+category: な行
+definitions:
+  -
+    yomi: ながまん
+    label: 長マン
+    tags: [ゲームの種類]
+    desc: ブー麻雀じゃない通常の半荘麻雀こと。
+  -
+    yomi: のーてん
+    label: ノー聴
+    tags: [状況]
+    desc: 聴牌していない状態のこと。
+  -
+    yomi: のーてんりーち
+    label: ノー聴リーチ
+    tags: [状況]
+    desc: ノー聴状態でのリーチ。流局時にチョンボとなる。

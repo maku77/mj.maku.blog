@@ -1,0 +1,109 @@
+<style>
+.xMj img {
+  display: inline-block;
+  height: 1.7em;
+  border: solid 1px #333;
+  margin-right: 1px;
+  border-radius: 3px;
+}
+.xMj img.horizontal {
+  height: auto;
+  width: 1.7em;
+}
+
+.xMj > .space {
+  padding-left: 0.5em;
+}
+
+.xMjCenter > .space {
+  padding-left: 1em;
+}
+
+.xMjCenter {
+  padding: 1em 0;
+
+  display: flex;  /* フレックスコンテナにして各牌を伸縮するように */
+  align-items: flex-end;  /* 下端を揃える */
+  justify-content: center;
+}
+.xMjCenter img {
+  /* width: calc(100% / 16); */ /* 折り返しなしで全牌を収める調整 */
+  min-width: 0;  /* 全牌が収まりきらないとき、flex の力で各牌の横幅を縮める */
+  max-width: 2em;
+
+  /* 横幅が縮んだとき、縦サイズも縮める（box-shadow と相性が悪い） */
+  object-fit: contain;
+  /* box-shadow: 0.2em 0.2em 0.2em #999; */
+}
+.xMjCenter img.horizontal {
+  max-width: 2.7em;
+}
+</style>
+<script>
+(function() {
+  window.addEventListener('DOMContentLoaded', () => {
+    const elems = document.querySelectorAll('.xMj, .xMjCenter');
+    elems.forEach(e => {
+      e.innerHTML = mjText2Html(e.innerText);
+    });
+  });
+
+  /**
+   * 1p2p3p という mjText を複数の <img> タグテキストに変換します。
+   */
+  function mjText2Html(mjText) {
+    let s = '';
+    try {
+      for (let pai of parseMjText(mjText)) {
+        if (pai === '-') {
+          s += '<span class="space"></span>';
+          continue;
+        }
+        let className = '';
+        if (pai.endsWith('h')) {
+          className = 'horizontal';
+        }
+        s += `<img class="${className}" src="/assets/img/pai/${pai}.png">`;
+      }
+    } catch (e) {
+      return `<b>${mjText}</b><small style="color:red">（牌変換Error: ${e}）</small>`;
+    }
+    return s;
+  }
+
+  /**
+   * mjText から次の牌名を1つずつ抜き出すジェネレーター関数です。
+   * （例: '3p', '4p', '7mh', '-'（スペース））
+   * パースに失敗した場合は例外を投げます。
+   */
+  function* parseMjText(mjText) {
+    let i = 0;
+    while (i < mjText.length) {
+      // 1文字目はスペース or 数値
+      const num = mjText.charAt(i++);
+      if (num === '-') {
+        yield '-';
+        continue;
+      }
+      if (!(0 <= num && num <= 9)) {
+        throw `${i}文字目の数値`;
+      }
+
+      // 2文字目は牌種（m/p/s/z)
+      const suit = mjText.charAt(i++);
+      if (suit !== 'm' && suit !== 'p' && suit !== 's' && suit !== 'z') {
+        throw `${i}文字目の牌種`;
+      }
+
+      // 3文字目（オプショナル）は横向きフラグ (h)
+      const horizontal = mjText.charAt(i);
+      if (horizontal === 'h') {
+        yield `${num}${suit}h`;
+        i += 1;
+      } else {
+        yield `${num}${suit}`;
+      }
+    }
+  }
+})();
+</script>

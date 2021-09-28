@@ -1,0 +1,20 @@
+{{- range .Site.Data.words }}
+  <h3>{{ .category }}</h3>
+  <dl>
+    {{- range .definitions }}
+      <dt>
+        <a name="{{ .label }}" /></a>
+        {{ .label }}
+        {{ with .yomi }}（{{ . }}）{{ end }}
+        {{ range .tags }}
+          <span class="tag">{{ . }}</span>
+        {{ end }}
+      </dt>
+      <dd>
+        {{ with .desc }}{{ . | markdownify }}{{ end }}
+        {{ with .link }}<div>→ <a href="#{{.}}">{{ . }}</a></div>{{ end }}
+        {{ with .more }}<div>→ <a href="/{{.}}">★もっと詳しく</a></div>{{ end }}
+      </dt>
+    {{- end }}
+  </dl>
+{{- end }}

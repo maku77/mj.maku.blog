@@ -1,0 +1,22 @@
+baseURL = "https://mj.maku.blog/"
+relativeurls = true
+enableRobotsTXT = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+languageCode = "ja-jp"
+title = "まくまく麻雀ノート"
+themesDir = "../hugo_themes"
+theme = "maku"
+googleAnalytics = "UA-63069513-5"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  sidebarLogo = "assets/img/site-logo-sidebar.png"
+  image = "assets/img/site-logo.png"
+  facebookAppId = "1572235596285254"
+  Author = "まく"
+  AmazonId = "maku04-22"
+  CustomSearchId = "partner-pub-6317852277883092:5421923271"
+
