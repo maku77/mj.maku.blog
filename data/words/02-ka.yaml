@@ -36,6 +36,11 @@ definitions:
     tags: [用具]
     desc: 香港で使用されている大きな牌。
   -
+    yomi: げんばり
+    label: 現張り
+    tags: [状況]
+    desc: リーチ者の捨て牌にある牌（現物牌）で待っていること。
+  -
     yomi: げんぶつはい
     label: 現物牌
     tags: [牌の種類]

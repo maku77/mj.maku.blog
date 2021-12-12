@@ -1,5 +1,5 @@
 ---
-title: "麻雀用語の標準表記ルール"
+title: "DRAFT: 麻雀用語の標準表記ルール"
 url: "/p/hioiafx"
 date: "2018-10-20"
 draft: true

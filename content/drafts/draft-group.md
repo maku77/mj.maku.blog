@@ -1,5 +1,5 @@
 ---
-title: "プロの麻雀団体まとめ"
+title: "DRAFT: プロの麻雀団体まとめ"
 url: "/p/5gvadzo"
 date: "2018-10-20"
 draft: true
