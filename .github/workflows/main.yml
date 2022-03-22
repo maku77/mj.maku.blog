@@ -8,4 +8,6 @@ on:
 jobs:
   build:
     uses: maku77/maku.blog/.github/workflows/main.yml@main
+    with:
+      domain: 'mj.maku.blog'
 
