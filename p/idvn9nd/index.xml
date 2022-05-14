@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>戦略 on まくまく麻雀ノート</title><link>https://mj.maku.blog/p/idvn9nd/</link><description>Recent content in 戦略 on まくまく麻雀ノート</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mj.maku.blog/p/idvn9nd/index.xml" rel="self" type="application/rss+xml"/><item><title>357 リャンカンのリーチ牌の選択</title><link>https://mj.maku.blog/p/oamx9jt/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/oamx9jt/</guid><description>3p5p7p のリャンカン形からリーチするときの選択の話です。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>戦略 on まくまく麻雀ノート</title><link>https://mj.maku.blog/p/idvn9nd/</link><description>Recent content in 戦略 on まくまく麻雀ノート</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mj.maku.blog/p/idvn9nd/index.xml" rel="self" type="application/rss+xml"/><item><title>牌効率 - アンペーコーの形を残す</title><link>https://mj.maku.blog/p/us4dnw7/</link><pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/us4dnw7/</guid><description>アンペーコーとは 2p2p3p3p4p という一盃口の一歩手前の形から、さらに 2p や 3p をツモってきて暗刻ができてしまった形、つまり 2p2p2p3p3p4p や 2p2p3p3p3p4p のことを アンペーコー と呼びます。 呼ぶことにします。 名前を付けておくと覚えやすいので。 暗刻 + 一盃口なのでアンペーコーです。
+外ぶくれアンペーコー 2p2p2p3p3p4p 一盃口狙いだったのに、外側の牌が暗刻になってしまった形です。 2p2p3p3p4p の時点では受け入れ枚数が 7 枚でしたが、この形になると 受け入れ枚数は倍増して 14 枚 になります。 1p 〜 5p のいずれを引いても 2 メンツが完成する強い形です。
+具体的なイーシャンテンからの捨て牌候補を考えてみます。
+2m2m3m2p2p2p3p3p4p6s7s7z7z-7z 2m 切り &amp;hellip; 1m4m5s8s 4種16枚。雀頭をピンズに固定するので非効率。 3m 切り &amp;hellip; 2m1p2p3p4p5p5s8s 8種24枚。4p で一盃口、2m3p で三暗刻も狙える。 2p 切り &amp;hellip; 1p4p5s8s 4種15枚。雀頭をマンズに固定するので非効率。 3p 切り &amp;hellip; 1m2m4m2p5p5s8s 7種23枚。一盃口や三暗刻がなくなる。 4p 切り &amp;hellip; 1m2m4m3p5s8s 6種20枚。一盃口がなくなる。 総合的に見ると、3m 切りがもっとも有力です。 2m 切りや 2p 切りで受け入れ枚数が極端に減ってしまうのは、雀頭候補を残りの 1 色の方に限定してしまうからです。</description></item><item><title>357 リャンカンのリーチ牌の選択</title><link>https://mj.maku.blog/p/oamx9jt/</link><pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/oamx9jt/</guid><description>3p5p7p のリャンカン形からリーチするときの選択の話です。
 1p1p3p5p7p ここから 3p か 7p を切ってリーチにいく場合、どちらも違いがないように見えますが、実は 3p 切りリーチにしておいた方があとひっかけになる可能性が高いです。 リーチ後に 9p がツモ切りになると、スジの 6p が盲点になります。 逆に 1p はすでに雀頭で 2 枚使っているのでツモってくる可能性が低く、4p はあとひっかけになりにくいです。
 2p2p3p5p7p これも似た形で、今度は雀頭が 1p ではなく 2p になっています。 この場合も 3p 切りリーチとすると、6p 待ちが盲点となる可能性が若干高いです。 なぜなら、誰かが 8p をアンコにしていて、6p9p のスジがワンチャンスに見えることがあるからです。 リーチ後に自分が 8p をツモ切りして壁になる可能性もあります。
-1p1p1p2p2p3p5p7p こんな形はどうでしょう？ 前の 2 つの複合形だと考えるとわかりやすいですね。 リーチ後に他家から 8p9p が見えることによって、6p9p のスジが盲点になるので、3p リーチの方が有利になりやすいです。</description></item><item><title>牌効率 12 - 3飛びトイツの捌き</title><link>https://mj.maku.blog/p/8xes7jx/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/8xes7jx/</guid><description>「飛びトイツは間を落とせ」 という格言があります。
+1p1p1p2p2p3p5p7p こんな形はどうでしょう？ 前の 2 つの複合形だと考えるとわかりやすいですね。 リーチ後に他家から 8p9p が見えることによって、6p9p のスジが盲点になるので、3p リーチの方が有利になりやすいです。</description></item><item><title>牌効率 9 - 3飛びトイツの捌き</title><link>https://mj.maku.blog/p/8xes7jx/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/8xes7jx/</guid><description>「飛びトイツは間を落とせ」 という格言があります。
 2m3m4m5s6s6z6z6z3p3p5p5p7p7p このような飛び飛びの3トイツから1枚外す場合、間の 5p を落とすのが牌効率が良いということですね。 3p3p5p7p7p という形を残せば、3p4p6p7p の4種12牌の受け入れで1面子1雀頭が完成します。
 これはその通りなのですが、赤入り麻雀では少し状況が変わってきます。
 2m3m4m5s6s6z6z6z3p3p5p0p7p7p このような手牌ではできるだけ赤 0p を使い切りたいとこですが、ここから 5p を外すと、3p7p ツモのときに 0p を捨てることになってしまいます。
@@ -89,18 +92,15 @@
 このとき、先制リーチの捨て牌 3m5m5s7s2p4p が切られている場合、その筋の 2m6m4s8s1p を引いたときに現物を切りながら、出アガリの効く平和テンパイをキープすることができます（5p をツモったときはアガリなので除外）。
 ポイントは、出来合いの順子の両端牌が切られているかどうかです。 ダマテンのまま振り込みを回避しつつ打ち取る。 それができるようになれば一歩前進です。</description></item><item><title>何切る？牌効率2</title><link>https://mj.maku.blog/p/m9tmkkh/</link><pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/m9tmkkh/</guid><description>2m3m5m6m7m7m8m2p3p4p2s3s8s8s
 2m 切りが一番受けが広いです。 どのリャンメンターツを外すかという選択ですが、2m を外しても 3m5m6m7m7m8m という形の 4m 受けを残すことができます。
-もちろん、マンガン以上が必要な場面ではタンピン三色狙いで。</description></item><item><title>染め手をしている下家への絞り込み</title><link>https://mj.maku.blog/p/em7cqwr/</link><pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/em7cqwr/</guid><description>数牌の選択では尖牌を絞る 下家が筒子の染め手をしているとき、例えば、1p3p や 3p4p といったターツを落とさないといけない場合、3p はできるだけ後から切るようにします。 数牌の中でも 3、7 牌は尖牌（せんぱい）と呼ばれる重要な牌で、 1p2p のペンチャンや、2p4p というカンチャンが残っているときに真っ先に鳴かれてしまう可能性が高いです。
+もちろん、マンガン以上が必要な場面ではタンピン三色狙いで。</description></item><item><title>ホンイツ狙いの相手への絞り込み</title><link>https://mj.maku.blog/p/em7cqwr/</link><pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/em7cqwr/</guid><description>下家には尖牌（3 や 7）を絞る 下家がピンズの染め手をしているとき、例えば、1p3p や 3p4p といったターツを落とさないといけない場合、3p はできるだけ後から切るようにします。 数牌の中でも 3、7 牌は尖牌（せんぱい）と呼ばれる重要な牌で、 1p2p のペンチャンや、2p4p というカンチャンが残っているときに真っ先に鳴かれてしまう可能性が高いです。
 例えば、
-1p2p5p6p7p7p7p1z1z1z5z5z6z
-このような手牌で 3p をチーできれば両面待ちが残るので、喜んでチーされる可能性が高いでしょう。 そして、次に 4p を切ったら放銃です。 逆に、4p を先に切ってチーされなければ、次の 3p 切りでの放銃は逃れることができます。
+1p2p5p6p7p7p7p1z1z1z5z5z6z このような手牌で 3p をチーできれば両面待ちが残るので、喜んでチーされる可能性が高いでしょう。 そして、次に 4p を切ったら放銃です。 逆に、4p を先に切ってチーされなければ、次の 3p 切りでの放銃は逃れることができます。
 下記のようなケースもあります。
-1p2p3p5p7p7p7p1z1z1z5z5z6z
-ここから、3p を鳴くと一時的にカン 4p 待ちになりますが、そこから好形への変化があるため、積極的に鳴かれる可能性が高いです。 逆に 4p からチーされる可能性は低いでしょう。
+1p2p3p5p7p7p7p1z1z1z5z5z6z ここから、3p を鳴くと一時的にカン 4p 待ちになりますが、そこから好形への変化があるため、積極的に鳴かれる可能性が高いです。 逆に 4p からチーされる可能性は低いでしょう。
 こういった聴牌のキーとなる部分を解消する 3、7 牌はできるだけ抑えておくのがポイントです。
-1、9、字牌の選択では字牌を絞る 1s と 7z のどちらを先に落とすかで迷ったら、1s から落としていくのがよいです。 7z → 1s という順番で切ると当たってしまうけど、1s → 7z という順番で切れば当たらないというケースがあります。
-例えば、
-2s3s5s6s7s8s9s9s5z5z5z7z7z
-このような形はメンホンやイッツーが見えるので、9s はポンされないかもしれませんが、7z を鳴けば満貫が確定するので 7z はポンされてしまうでしょう。 その後 1s を切ったら放銃です。 逆に、1s → 7z という順番で切れば放銃を逃れられる可能性があります。</description></item><item><title>メンチン一向聴からはポンかチーか？</title><link>https://mj.maku.blog/p/55hwxfq/</link><pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/55hwxfq/</guid><description>本日、メンゼンでこんなメンチンの一向聴になりました。 九蓮の逆版みたいな感じ。
+上家や対面には端牌や字牌を絞る 上家や対面がピンズの染め手をしているときに 1p2p を落とさないといけないときは、内側の 2p から外していったほうが安全です。 1p3p を落とすときも、3p から外していきます。 これは、ポン→ロンのコンボの可能性を下げるためです。
+例えば対面が 1p1p3p4p と持っている場合、2p1p という順番で切れば当たりになりませんが、1p2p という順番で切ると、ポン→ロンで当たりになってしまいます。 例外的に 2p1p の切り順で当たりになってしまうケースを考えると、1p1p2p2p や 2p2p2p3p という形がありますが、1p1p3p4p といった形よりはレアケースでしょう。
+1p2p &amp;hellip; 2p から外す 1p3p &amp;hellip; 3p から外す 1p4p &amp;hellip; 4p から外す 2p3p &amp;hellip; 3p から外す 2p4p &amp;hellip; 4p から外す 2p5p &amp;hellip; 5p から外す 3p4p &amp;hellip; 4p から外す 3p6p &amp;hellip; 6p から外す 同様に、字牌とピンズを外していきたいときも、ピンズから外していった方が安全です。</description></item><item><title>メンチン一向聴からはポンかチーか？</title><link>https://mj.maku.blog/p/55hwxfq/</link><pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/55hwxfq/</guid><description>本日、メンゼンでこんなメンチンの一向聴になりました。 九蓮の逆版みたいな感じ。
 1m2m3m4m5m5m5m6m6m7m8m9m7z
 上家が 5m を切ってきたので、迷わずポンして下記のような 3m6m9m の三面張（残り有効牌8枚）に受けました。
 1m2m3m4m5m6m6m7m8m9m
