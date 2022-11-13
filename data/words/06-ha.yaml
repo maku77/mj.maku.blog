@@ -20,6 +20,10 @@ definitions:
     label: 罰符
     desc: 反則行為によって支払わなければならない点数のこと。
   -
+    yomi: ぴあのまち
+    label: ピアノ待ち
+    desc: 23456 のように連続した形の 3 面待ちのこと。
+  -
     yomi: ぴーぱい
     label: 壁牌
     tags: [牌の種類]
