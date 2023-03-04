@@ -4,7 +4,7 @@ definitions:
     yomi: まんがん
     label: 満貫
     tags: [得点]
-    desc: 子の8000点、親の12000点のアガリ。
+    desc: 子の 8000 点、親の 12000 点のアガリ。
   -
     label: 門前
     yomi: めんぜん
@@ -12,5 +12,5 @@ definitions:
   -
     label: 門前自摸
     yomi: めんぜんつも
-    desc: 鳴いていない状態での自摸上がり。一翻。
+    desc: 鳴いていない状態での自摸上がり。1 翻役。
     tags: [役]
