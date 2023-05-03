@@ -4,3 +4,5 @@ github.com/maku77/hugo-module-maku-common v0.0.0-20230430164209-fc4a9930d263 h1:
 github.com/maku77/hugo-module-maku-common v0.0.0-20230430164209-fc4a9930d263/go.mod h1:ldVdMgaBNCLyWlUU6j/laNV5qkT5wA6AdWonmjra4Xo=
 github.com/maku77/hugo-module-maku-common v0.0.0-20230503144837-bd53c149892b h1:/d8Ek8JKGXBGV9HnoaFQrqGAPkFUSlpKU0xHl1x5HCM=
 github.com/maku77/hugo-module-maku-common v0.0.0-20230503144837-bd53c149892b/go.mod h1:ldVdMgaBNCLyWlUU6j/laNV5qkT5wA6AdWonmjra4Xo=
+github.com/maku77/hugo-module-maku-common v0.0.0-20230503191249-b30ccc1be458 h1:PvR6Xl4amfbssyHrsuPjdtyidSM1I9Eqyizvn9yt10g=
+github.com/maku77/hugo-module-maku-common v0.0.0-20230503191249-b30ccc1be458/go.mod h1:ldVdMgaBNCLyWlUU6j/laNV5qkT5wA6AdWonmjra4Xo=
