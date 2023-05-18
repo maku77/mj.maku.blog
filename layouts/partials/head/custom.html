@@ -63,7 +63,7 @@
         if (pai.endsWith('h')) {
           className = 'horizontal';
         }
-        s += `<img class="${className}" src="/assets/img/pai/${pai}.png">`;
+        s += `<img class="${className}" alt="${pai}" src="/assets/img/pai/${pai}.png">`;
       }
     } catch (e) {
       return `<b>${mjText}</b><small style="color:red">（牌変換Error: ${e}）</small>`;
