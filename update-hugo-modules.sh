@@ -1,6 +1,5 @@
-#!/bin/bash
+#!/bin/sh
+go mod tidy  # これを入れておくと go.sum のエントリーが最新だけになっていい感じ
 hugo mod get -u github.com/maku77/hugo-module-maku-common
-
-# これだとうまく更新できない (2023-05-01)
-# hugo mod get -u ./...
+hugo mod get -u github.com/maku77/hugo-theme-maku
 

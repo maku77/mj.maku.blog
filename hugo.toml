@@ -5,7 +5,6 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 languageCode = "ja-jp"
 title = "まくまく麻雀ノート"
-theme = "maku"
 # googleAnalytics = "UA-63069513-5"
 googleAnalytics = "G-MPC341NBMR"
 
@@ -22,5 +21,7 @@ googleAnalytics = "G-MPC341NBMR"
 
 [module]
   [[module.imports]]
-    path = 'github.com/maku77/hugo-module-maku-common'
+    path = "github.com/maku77/hugo-module-maku-common"
+  [[module.imports]]
+    path = "github.com/maku77/hugo-theme-maku"
 
