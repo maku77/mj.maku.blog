@@ -5,5 +5,5 @@ url: "p/ekefsjn/"
 
 気まぐれに追加していく麻雀用語集です。
 
-{{< maku-common/words mj-words >}}
+{{< word-list mj-words >}}
 
