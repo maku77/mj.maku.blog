@@ -1,15 +1,15 @@
 ---
 title: "DRAFT: プロの麻雀団体まとめ"
-url: "/p/5gvadzo"
+url: "p/5gvadzo/"
 date: "2018-10-20"
 draft: true
 ---
 
-- [日本プロ麻雀協会（協会）](http://npm2001.com/)
-- [日本プロ麻雀連盟（連盟）](http://www.ma-jan.or.jp/)
+- [日本プロ麻雀協会（協会）](https://npm2001.com/)
+- [日本プロ麻雀連盟（連盟）](https://www.ma-jan.or.jp/)
 - [最高位戦日本プロ麻雀協会（最高位戦）](https://saikouisen.com/)
 - [麻将連合（μ：ミュー）](https://mu-mahjong.jp/)
-- [RMU: Real Mahjong Unit](http://www.rmu.jp/)
+- [RMU: Real Mahjong Unit](https://www.rmu.jp/)
 - [雀鬼会](http://www.jankiryu.com/)
 
 
@@ -18,7 +18,6 @@ draft: true
 
 - 通称「連盟」。1981年3月6日設立の最も歴史のあるプロ麻雀団体です。
 - ゲーム『コナミ麻雀格闘倶楽部』と提携しています。
-- [競技ルール](http://www.ma-jan.or.jp/guide/game_rule.html)
 
 ### 役員（抜粋）
 
