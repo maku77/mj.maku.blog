@@ -1,74 +1,476 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>捨て牌読み on まくまく麻雀ノート</title><link>https://mj.maku.blog/p/s4rvz4q/</link><description>Recent content in 捨て牌読み on まくまく麻雀ノート</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://mj.maku.blog/p/s4rvz4q/index.xml" rel="self" type="application/rss+xml"/><item><title>捨て牌読み: カンチャンチーの外側切りに筋待ちなし</title><link>https://mj.maku.blog/p/4543ptg/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/4543ptg/</guid><description>嵌張チーで1つ外側が切られたらその筋は安全 ケースとしては多くありませんが、次のような嵌張チーが入り、1つ外側の 3p が切られた場合は、その筋の 6p や 9p はほぼ通ります。
-5ph4p6p これは、どのような形からこのチーを入れたら 6p9p 待ちが残るかを考えてみると分かります。
-3p6p あるいは 6p9p の両面待ちが残る形 元の形が 3p4p4p5p6p であれば、5p であがっているはずなのでありえない。 元の形が 3p4p6p7p8p であれば、5p であがっているはずなのでありえない。 6p のカンチャン待ちが残る形 元の形が 3p4p5p6p7p であれば、5p であがっているはずなのでありえない。 6p のシャボ待ちが残る形 元の形が 3p4p6p6p6p であれば、5p であがっているはずなのでありえない。 ただし、強引な三色やイッツーのための 4p5p6p チーの場合は 6p9p 待ちが残る可能性はありますが、であれば 3p はもう少し前に切っていそうです。
-その他の筋の危険度は？ このように、6p9p はほぼ安全と言えますが、1p4p7p や 2p5p8p は必ずしも安全とは限りません。 下記のように多数のパターンが考えられます（とはいえ 1p はかなり安全）。
-1p1p3p4p6p から 5ph4p6p チー 3p 切りで 1p 待ち 2p3p3p4p6p から 5ph4p6p チー 3p 切りで 1p4p 待ち 3p4p5p6p6p から 5ph4p6p チー 3p 切りで 4p7p 待ち 3p4p6p6p8p から 5ph4p6p チー 3p 切りで 7p 待ち 1p3p3p4p6p から 5ph4p6p チー 3p 切りで 2p 待ち 3p3p4p4p6p から 5ph4p6p チー 3p 切りで 2p5p 待ち 3p4p6p6p7p から 5ph4p6p チー 3p 切りで 5p8p 待ち 3p4p6p8p8p から 5ph4p6p チー 3p 切りで 8p 待ち 逆側の筋は？ ちなみに、上記は鳴いた牌にかかる方向の筋が安全という理屈でしたが、逆方向の筋も通常安全です。 例えば、</description></item><item><title>捨て牌読み: トイトイ狙いのポンで隣の牌が切られたら注意</title><link>https://mj.maku.blog/p/eqr9fsr/</link><pubDate>Sat, 27 Apr 2024 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/eqr9fsr/</guid><description>8s8sh8s-9p9p9ph こんな感じで鳴いていて、ほぼトイトイ狙いっぽい人がいたとします。 この人が次に 2p をポンしてその隣の 3p を切ってきた場合は要注意です。
-この場合、2p2p3p のような形で持っていたことになりますが、そもそも狙いをトイトイ一本に絞っているのであれば、3p のような後々危険になりそうな牌をずっと持っておくことはないはずです。 つまり、1p2p3p や 2p3p4p のような順子になったとしても トイトイ以外の役があって和了れる形 であったことが示唆されます。
-典型的なのはこんな感じでしょうか。
-2p2p3p5z5z7z7z--8s8sh8s-9p9p9ph あるいは、すでにドラの役牌がアンコになっているとか。
-2p2p3p7z7z7z3z--8s8sh8s-9p9p9ph ようするに、ポン牌の隣の牌が切られたら字牌に要注意 ということです。</description></item><item><title>捨て牌読み: 24 カンチャン落としにウラ筋なし</title><link>https://mj.maku.blog/p/u9cegbf/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/u9cegbf/</guid><description>2m3p7s4m のように、間をあけて 2m → 4m と手出しで切られた場合は、5m8m の筋は比較的通ることが多いです。
-2m4m6m7m の形からターツ落としするのであれば、安全度を考慮して 4m → 2m と外すはず。 逆に、上記のような切り順になる典型的な形は 2m4m4m5m です。 2m を外しておいて、4m4m5m でしばらく粘ったと考えるのが自然です。 3p や 7s のようなキー牌よりも 4m を温存しておいたということは、その可能性はなかり高いです。
-2m4m6m というリャンカンから、早い段階で 2m を切ってしまうことも少ないでしょう。 2m4m4m5m6m6m7m という複合系であっても、2m 切りよりは、4m 切りで 2m4m5m6m6m7m として、受け入れ枚数を最大にすることが多いと思います。
-よって、上記のような捨て牌では、5m8m は勝負です！</description></item><item><title>捨て牌読み: リーチ宣言牌で読む</title><link>https://mj.maku.blog/p/3is29hp/</link><pubDate>Tue, 19 Oct 2021 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/3is29hp/</guid><description>ドラ表示牌切りリーチは 2 つ上が安全 ドラ表示牌が 6p のとき、中盤で 6p 切りリーチがかかったときの手を考えてみます。 6p6p7p という形からは、ドラを使い切ることと安全度を考えて 6p は早めに切ることが多いです。 つまり、ドラを跨ぐ 8p は比較的安全だと考えられます。
-逆に、完全イーシャンテンで 5p6p6p という形を残していることは十分考えられるため、4p7p は安全ではありません。
-5 切りリーチは 1、9 が安全 早い 5 切りに 1-4 や 6-9 の筋が危険なのは今も昔も変わりませんが、デジタルな打ち手が多い現在では、リーチ宣言牌が 5 の場合は、1 や 9 は比較的安全だと考えられます。 なぜなら、3s5s という形から 2s 引きを待つよりも、カン 4s 待ち即リーが主流だからです。 もちろん、またぎ筋の 3s6s 待ちや 4s7s 待ちは十分に考えられますし、123 や 789 の三色狙いやイッツー狙いの場合は例外になります。
-安牌（字牌）切りリーチはまたぎ筋と筋が安全 序盤から中盤にかけて、安全牌を切ってリーチをかけてきた場合、またぎ筋は比較的安全です。 なぜなら、早い段階では、3m3m4m4z という形からはテンパイチャンスを増やすために安全牌の 4z を先に切り出すことが多いからです。 3m が先に切られているのであれば、3m4m という形が残っていることは少ないと考えられます。
-また、先に切られている牌の筋となる牌も安全です。 なぜなら、2p4p6p4z のような形からは、リャンカン形を残したいので、6p が先に切られることは少ないからです。
-逆に、危険なのは裏筋です。 孤立牌へのくっつきテンパイを目指しているのであれば、4z よりもそちらの孤立牌を残すはずなので、くっつきテンパイの可能性は低いです。 となると、7m8m3s4s4z のような完全イーシャンテンではない両面両面からの 4z 切りリーチの可能性が高く、その形になる過程で 5m や 6s が切られることが多いからです。</description></item><item><title>捨て牌読み: 筋の安全度は早く切られた牌ほど高い</title><link>https://mj.maku.blog/p/tfr3dnx/</link><pubDate>Tue, 19 Oct 2021 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/tfr3dnx/</guid><description>安全牌を探すときに相手の捨て牌のスジを頼るときは、早く切られた牌のスジの方が安全である可能性が高いです。 なぜなら、
-6p9p という形からは 9p が真っ先に切られるので、6p はすでに手中にある可能性が高い 2p4p6p というリャンカン形からは、2p や 6p がすぐに切られることはなく、その筋の牌でカンチャン待ちになっている可能性は低い といったことが言えるからです。
-あと、リーチ後に切られた牌のスジはほとんどあてにならない ことは覚えておきましょう。 なぜなら、1m3m のカンチャン待ちリーチの後に、5m を持ってくることはよくあるからです。</description></item><item><title>捨て牌読み: 終盤の2枚目の端牌切りを読む</title><link>https://mj.maku.blog/p/7r6ht5g/</link><pubDate>Wed, 26 Aug 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/7r6ht5g/</guid><description>序盤から中盤にかけて 1、9 牌を切っている人が、終盤でもう一枚同じ牌を切ってきた場合、どのような手になっていると考えられるでしょうか？
-結論から言うと、このような切り出しが行われた場合、1-4 の交換、あるいは 6-9 の交換による タンヤオ振り替えの可能性 が高いです。
-一度 9p を切っているのに、手中に 9p がもう一枚あったということは、7p8p9p9p からの 7p8p9p メンツ確定の 9p 切りだったと読めます。 仮に他の形、たとえば 7p9p9p とか 8p9p9p という不十分な形であれば、9p は残したくなるので、最初の 9p 切りの時点でメンツが確定している考えるのが自然です。
-ということは、7p8p9p という形から何らかの理由で 9p を切ったということなのですが、一番多いパターンは、6p 引きの 9p との入れ替えでしょう。 このような 1-4、6-9 牌の入れ替えは、実戦でもよく経験があると思います。
-重要なのは、そこから先の考え方 で、6p7p8p が一枚ずつ持たれているので、「それらの牌はもう山には残っていない」とか、「その周辺の牌は実は安全だ」とか、そういった応用的な考え方ができると強いですね。</description></item><item><title>捨て牌読み: ペンチャン・カンチャン落としからのリーチにまたぎ筋なし</title><link>https://mj.maku.blog/p/h5iu8iu/</link><pubDate>Tue, 28 Jul 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/h5iu8iu/</guid><description>1p7z5z4m8s9s4z リーチの直前にこのようにペンチャンやカンチャンが（手出しで）落とされている場合の手を読んでみます。
-ペンチャンやカンチャンのターツを途中まで残していたということは、それでメンツの完成を狙っていたと考えるのが自然です。 4m はそれよりも前に切られていますが、仮にこの周りに別の牌があってターツの形になっていたのであれば、ペンチャンやカンチャンよりもよい形なので、そちらを残しているはずです。 4m4m5m という形からリャンメン固定で 4m が切られることもあるかもしれませんが、メンツが欲しい時にそのような切り出しをすることは少ないでしょう。 また、雀頭よりもメンツが欲しいというときに、4m5m5m から雀頭固定の 4m 切りも考えにくいです。 あるとすれば、4m5m5m5m からの暗刻確定でしょうか。
-こう考えると、ペンチャン・カンチャン落とし前に切られた牌のまたぎ筋が残っていることは少なく、このような場合は 無筋の方が危険 といえそうです。</description></item><item><title>捨て牌読み: 序盤のオタ風牌切りリーチにまたぎ筋なし</title><link>https://mj.maku.blog/p/7yhwcr7/</link><pubDate>Tue, 28 Jul 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/7yhwcr7/</guid><description>9p7z8s3m3p4zh こんな感じの捨て牌で早めにリーチがかかったとします。 リーチの数巡前の捨て牌のまわりは危険だと言われますが、このような序盤でのオタ風牌切りリーチの場合、それより前に切られた牌のまたぎ筋にはなっていなことが多いです（もちろん絶対ではないですが）。 例えば、次のようなイーシャンテンを考えてみます。
-1s2s3s5s5s5s6m7m9m9m3p3p4p-4z 3z や 4z といったオタ風牌は、終盤の手作りでは安牌として抱えられることが多いのですが、序盤の手作りでは安牌を抱えるよりも、目一杯に手を広げた方が有利です。 つまり、この手牌であれば、3p → 4z の切り順ではなく、4z → 3p の切り順になるはずです。 逆にこのような早いリーチで安牌の 4z が手中に残っていたということは、他の牌はまったく必要なく、手牌が十分型だったからこそ切られたのだと考えられます。 よって、 早い段階でのオタ風牌切りリーチは、またぎ筋は比較的安全 であり、それより警戒すべきは無筋だといえます。
-ちなみに、上記の捨牌では、またぎ筋の 1p4p 待ちや 2p5p 待ちは少ないのですが、裏筋の 4p7p は普通にあり得ます。
-1s2s3s5s5s5s6m7m9m9m3p5p4z-6p こんな風に、カンチャンからリャンメンへの変化で、3p → 4z という切り順になることがあるからです。</description></item><item><title>捨て牌読み: チャンタで中盤の 8 切りは 9 待ち</title><link>https://mj.maku.blog/p/68uqjjz/</link><pubDate>Fri, 01 Nov 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/68uqjjz/</guid><description>捨て牌がチャンタ狙いっぽいときに、中盤以降に 8p が切られた場合は、下記のような形から、9p を雀頭にした可能性が高いです。
-8p9p9p チャンタ狙いの場合は、字牌もトイツで持っている可能性が高いので、必然的に 9p と他の字牌等とのシャンポン待ちが危険ということになります。
-では、ペン 7p 待ちの可能性は考慮しなくてよいのでしょうか？
-中盤以降で 8p を捨ててペン 7p 待ちとなるということは、そこまで下記のような形で持っていたということになります。
-8p8p9p この形から、7p 2枚、9p 1枚を引いて一盃口（イーペイコウ）を完成させるのはなかなか難しいので、多くの人は比較的早く 8p を一枚外すはずです。 つまり、遅くに 8p が切られた場合のペン 7p 待ちは、9p ほどは警戒しなくてもよいと言えます。</description></item><item><title>捨て牌読み: 離れたターツ落としの即リーはまたぎ待ち</title><link>https://mj.maku.blog/p/7qaqseo/</link><pubDate>Mon, 21 Oct 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/7qaqseo/</guid><description>7m を切ってから、しばらくして 8m を切ってくる場合は、その周りの牌があったということなので、
-7m7m8m8m
-からの 7m8m 外しの可能性が高いです。 よくあるのが次のようなメンツオーバーの形。
-7m7m8m8m2p3p6p7p8p6s7s1z1z1z
-三色が見えるので、ここからは 7m を落としておいて、下記の形にしておくのが手筋です。
-7m8m8m2p3p6p7p8p6s7s1z1z1z
-8m は雀頭候補になりますから、目一杯に打つのであれば、すぐに 8m を切ることはありません。 ピンズ、ソーズが埋まれば 7m 切りリーチです。 一方、先に 6m を引いてマンズのメンツが完成したら、牌効率的に 8m を外しておきます。
-6m7m8m2p3p6p7p8p6s7s1z1z1z
-つまり、マンズが完成して、リーチ宣言牌より前に 7m8m が並んでいる場合、跨ぎ筋の待ちにはなりにくい ことになります。 逆に跨ぎ筋の待ちになるのは、次のような完全イーシャンテンになったとき。
-7m8m8m2p2p6p7p8p6s7s1z1z1z
-8m は雀頭候補なのでギリギリまで引っ張りますが、先に 5s8s が埋まると、雀頭は 2p になり、8m 切りの両面待ちになります。 つまり、両面待ちターツ落とし後の即リーだと跨ぎ筋の両面待ちになりやすい とうことになります。
-もちろん例外もあります。 マンガ 『天牌67巻』 で山田さんは下記の手牌から 7m8m と落としていきますが、このようなケースではマンズ待ちは残りません。
-でもこんな一盃口の形を崩していくはレアケースかな。 あるとすれば別の場所で三色になりそうで強引に狙っていくといき。</description></item><item><title>捨て牌読み: 序盤の 3 切りと 4 切りについて考える</title><link>https://mj.maku.blog/p/ejvw7wv/</link><pubDate>Sat, 28 Sep 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/ejvw7wv/</guid><description>1、2 牌が切られていないのに 3、4、5 が切られている場合は、1、2 牌は手の内にあるのでしょうか？
-序盤のうちに 1p3p / 2p3p / 1p1p3p / 2p2p3p という形から、3p を切り出していくことは少ないので、3p が早い段階で切られているときは、その外側はかなり安全だと考えられます。 昭和時代には、2p3p3p という形から 3p を先切りするという戦法もありましたが、現在はマイナーでしょう。あるとすればチャンタの決めうちの場合でしょうか。
-一方、4 や 5 の先切りはチャンタや三色が絡むケース、例えば 1p1p2p4p からの 4p 外しは十分に考えられます。 なので、序盤に 4p が切られているときに、その外側の 1p / 2p が安全と考えるのは早計です。</description></item><item><title>捨て牌読み: 役牌のポンテンに側テン（そばてん）なし</title><link>https://mj.maku.blog/p/ogo4jv5/</link><pubDate>Sun, 31 Mar 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/ogo4jv5/</guid><description>例えば今 7z をツモって、次のような手牌になったとします。 よくあるイーシャンテンの選択です。
-1s2s3s1p2p3p7p7p8p7m8m8m7z7z ここからは、好形のリャンメン形を残したいので、例えば 7p を 1 枚外して次のような完全一向聴（2両面＋2対子で最終的に両面待ちになる形）に受けるのが一般的でしょう。
-1s2s3s1p2p3p7p8p7m8m8m7z7z ここから 7z をポンすると、7m 切りの 6p9p 待ちにになります。 つまり、完全一向聴からのポン後に切った牌の周りはリャンメン受けがなくなって雀頭として固定されることになり、その周りは待ち牌になりません。 これが、「ポンテンに側テンなし」と言われる理由です。
-しかし、この格言には例外があります。 役牌のトイツを 2 種類持っている場合です。 例えば、
-1s2s3s4s5s6s2p2p3p5z5z7z7z こんな形のイーシャンテンから、5z あるいは 7z のポンでテンパイに取った場合です。 このような「1両面＋3対子」の形からポンテンした場合、2p 切りのリャンメンに受けようが、3p 切りのシャンポンに受けようが、最後に切った牌の側テン（1p2p4p のいずれか）になります。 役牌ポンでテンパイと読むのであれば、もう一種類の役牌が対子で持たれていないか、という見極めが大切になってきます。 他の役牌は持たれていないと読めれば、今切られた牌の周りは比較的安全 です。 まぁ、あるとすれば、19牌のシャボなどですね。
-上記の例は、ポンテン時の 2p 切りで側テンの跨ぎ筋である 1p4p 待ちが残ってしまう例外パターンでしたが、少なくともすぐ隣の 3p に関しては比較的通りやすいことを覚えておいて損はないと思います。 なぜなら、　2p4p5p8m8m という形で 2p を残すことはないし、
-2p3p4p5p6p9m9m といった形であれば、9m は鳴かずに三面張を残すだろうからです。 もちろん、
-2p2p4p8m8m という形からカンチャン待ちを残すケースや、
-2p4p4p8m8m という形からシャンポン待ちを残すケースは考えられますが、少なくとも跨ぎ筋となる 1p4p ほど危険ではないので、勝負手であれば 3p は押す価値ありです。</description></item><item><title>捨て牌読み: 自然なワンチャンスと人工的なワンチャンスを見分ける</title><link>https://mj.maku.blog/p/rc8dnk7/</link><pubDate>Tue, 12 Mar 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/rc8dnk7/</guid><description>他家のリーチ後に 6p が 3 枚見えたとすると、7p と 8p はワンチャンスとなります。
-ただ、このワンチャンス、どのような過程でワンチャンスになったか確認していますか？
-6p がどのように切られてワンチャンスとなったのかによって、その安全度は変わってきます。 例えば、6p 切りでリーチがかけられたあとに、他の 2 人がオリ気味に 6p を切ってきたのであれば、それは人工的に作られたワンチャンスであり、またぎ筋は決して安全とは言えません。
-逆に、オリの意思がなく、バラバラと 6p が切られているのであれば、それは純粋で自然なワンチャンスであり、またぎ筋は比較的安全と言えます。
-人工的なワンチャンスでしかない危険牌を切り出しておいて、「ワンチャンスなのに当たっちゃった、ツイてない〜」って言わないようにしましょー。</description></item><item><title>捨て牌読み: カンチャン落としを読む（46 切りと 64 切りの違い）</title><link>https://mj.maku.blog/p/7u7nixe/</link><pubDate>Sat, 02 Feb 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/7u7nixe/</guid><description>捨て牌に数巡あけて 4m6m や 6m4m のようにカンチャンターツが切られているときは、リャンカン残しからのカンチャン落としを考慮する必要があります。
-カンチャン落としをしているのにも関わらず、片方の牌をしばらく持っていたということは、その牌の周りの牌も持っている可能性が高いということです。 4m6m の順番で切られているときは 2m4m4m6m あるいは 4m6m6m7m からの切り出し、6m4m の順番で切られているときは 4m6m6m8m あるいは 3m4m4m6m からの切り出しである可能性が高いです。
-つまり、カンチャン落としのケースでは、後から切られた牌の筋は比較的危険であることが多いということです。 逆に、先に切られた牌の筋は安全です。
-ちなみに、赤 5 入りのルールの場合、3m5m5m7m という形からは、赤 0m のツモを狙って 3m5m という切り順になることがあります。 このケースでは先に切られた牌の筋 6m が危険ということになりますが、どちらかというとレアケースでしょう。</description></item><item><title>捨て牌読み: 中盤以降の 9 → 3 切りに引っ掛けあり</title><link>https://mj.maku.blog/p/k4skqna/</link><pubDate>Mon, 27 Aug 2018 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/k4skqna/</guid><description>特に赤 5 入りの麻雀では顕著ですが、
-3p0p7p9p
-という形から 9p → 3p という順番で落として、引っ掛けの 6p 待ちリーチというケースがまれにあります。 もちろん、9p がオタ風牌よりも早い段階で切られている場合は、単純に浮いていた可能性が高いですが、字牌より後に 9p が手出しで切られた場合は大いにマークすべき形でしょう。</description></item><item><title>捨て牌読み: 赤5が切られているときは3,7が安全</title><link>https://mj.maku.blog/p/vtbvcpa/</link><pubDate>Sat, 28 Jul 2018 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/vtbvcpa/</guid><description>4p5p0p
-5p0p6p
-上記のような形から 5p ではなく、あえて 0p を切る可能性は低いので、0p が切られているときは、3-6、4-7 待ちの可能性は低いと言えます。
-ただし、2p3p0p という形をテンパイぎりぎりまで引っ張ってリーチということがあるので、0p 切りリーチの場合は、1-4、6-9 待ちは普通にあります。 逆に、0p の出が早い場合は、手の中に 2p3p や 7p8p があることは少ないので、1-4、6-9 は比較的安全と言えます。 3p0p という形から 2p がくっついて 1-4 待ちになることもありますが、この形からはカンチャン待ちでそのままリーチにいくことも多いため、あまり考慮しなくてもよいでしょう。
-また、0p 切りリーチの場合は、1p3p0p あるいは 0p7p9p のリャンカン形からのひっかけリーチがあることに注意が必要です（特に 123、789 の3色狙いの場合）。リャンカン形から赤を早切りすることは少ないので、0p が早めに切られているときは、比較的安全かと思います。
-まとるめると以下のようになります。
-捨て牌に 0p があるときは、3p と 7p は安全。 0p 切りリーチは、まれに即引っ掛けの 2p 、8p 待ちがあるが、0p が早めに切られているときは安全。 0p 切りリーチは、まれに平和狙いの 1-4、6-9 待ちがあるが、0p が早めに切られているときは安全。</description></item><item><title>捨て牌読み: 54 という切り順は特殊</title><link>https://mj.maku.blog/p/4766gpt/</link><pubDate>Sun, 10 Dec 2017 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/4766gpt/</guid><description>赤ドラが見えていない状況では、4p4p5p5p という形からは、赤引きを考えて、4p5p という順番で切るのがセオリーです。 にもかかわらず、5p4p という順番で切られるときは、何か特殊な事情があります。 例えば、
-5p6p7p8p9p5m6m7m8m9m4s4s4s5s
-という形から 5s4s と外したのであれば、その周りに待ちはありません。
-1m2m3m4m5m2p3p2s3s1z1z1z2z2z
-という形から 5m4m と外したのであれば、その周りに待ちはなく、他の色の 1-4 待ちで 123 の三色が考えられます。
-過信は禁物ですが、赤入り麻雀において、4m5m という順番で切られた場合は 3m6m 待ちが大いにあり得ますが、5m4m という順番で切られた場合は 3m6m は比較的安全と言えます。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>捨て牌読み on まくまく麻雀ノート</title><link>https://mj.maku.blog/p/s4rvz4q/</link><description>Recent content in 捨て牌読み on まくまく麻雀ノート</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://mj.maku.blog/p/s4rvz4q/index.xml" rel="self" type="application/rss+xml"/><item><title>捨て牌読み: カンチャンチーの外側切りに筋待ちなし</title><link>https://mj.maku.blog/p/4543ptg/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/4543ptg/</guid><description>&lt;h2 id="嵌張チーで1つ外側が切られたらその筋は安全">嵌張チーで1つ外側が切られたらその筋は安全&lt;/h2>
+&lt;p>ケースとしては多くありませんが、次のような嵌張チーが入り、1つ外側の &lt;span class="xMj">3p&lt;/span>
+ が切られた場合は、その筋の &lt;span class="xMj">6p&lt;/span>
+ や &lt;span class="xMj">9p&lt;/span>
+ はほぼ通ります。&lt;/p>
+&lt;span class="xMjCenter">5ph4p6p&lt;/span>
+
+&lt;p>これは、どのような形からこのチーを入れたら &lt;span class="xMj">6p9p&lt;/span>
+ 待ちが残るかを考えてみると分かります。&lt;/p>
+&lt;ul>
+&lt;li>&lt;span class="xMj">3p6p&lt;/span>
+ あるいは &lt;span class="xMj">6p9p&lt;/span>
+ の両面待ちが残る形
+&lt;ul>
+&lt;li>元の形が &lt;span class="xMj">3p4p4p5p6p&lt;/span>
+ であれば、&lt;span class="xMj">5p&lt;/span>
+ であがっているはずなのでありえない。&lt;/li>
+&lt;li>元の形が &lt;span class="xMj">3p4p6p7p8p&lt;/span>
+ であれば、&lt;span class="xMj">5p&lt;/span>
+ であがっているはずなのでありえない。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;span class="xMj">6p&lt;/span>
+ のカンチャン待ちが残る形
+&lt;ul>
+&lt;li>元の形が &lt;span class="xMj">3p4p5p6p7p&lt;/span>
+ であれば、&lt;span class="xMj">5p&lt;/span>
+ であがっているはずなのでありえない。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;span class="xMj">6p&lt;/span>
+ のシャボ待ちが残る形
+&lt;ul>
+&lt;li>元の形が &lt;span class="xMj">3p4p6p6p6p&lt;/span>
+ であれば、&lt;span class="xMj">5p&lt;/span>
+ であがっているはずなのでありえない。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>ただし、強引な三色やイッツーのための &lt;span class="xMj">4p5p6p&lt;/span>
+ チーの場合は &lt;span class="xMj">6p9p&lt;/span>
+ 待ちが残る可能性はありますが、であれば &lt;span class="xMj">3p&lt;/span>
+ はもう少し前に切っていそうです。&lt;/p>
+&lt;h2 id="その他の筋の危険度は">その他の筋の危険度は？&lt;/h2>
+&lt;p>このように、&lt;span class="xMj">6p9p&lt;/span>
+ はほぼ安全と言えますが、&lt;span class="xMj">1p4p7p&lt;/span>
+ や &lt;span class="xMj">2p5p8p&lt;/span>
+ は必ずしも安全とは限りません。
+下記のように多数のパターンが考えられます（とはいえ &lt;span class="xMj">1p&lt;/span>
+ はかなり安全）。&lt;/p>
+&lt;ul>
+&lt;li>&lt;span class="xMj">1p1p3p4p6p&lt;/span>
+ から &lt;span class="xMj">5ph4p6p&lt;/span>
+ チー &lt;span class="xMj">3p&lt;/span>
+ 切りで &lt;span class="xMj">1p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">2p3p3p4p6p&lt;/span>
+ から &lt;span class="xMj">5ph4p6p&lt;/span>
+ チー &lt;span class="xMj">3p&lt;/span>
+ 切りで &lt;span class="xMj">1p4p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p4p5p6p6p&lt;/span>
+ から &lt;span class="xMj">5ph4p6p&lt;/span>
+ チー &lt;span class="xMj">3p&lt;/span>
+ 切りで &lt;span class="xMj">4p7p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p4p6p6p8p&lt;/span>
+ から &lt;span class="xMj">5ph4p6p&lt;/span>
+ チー &lt;span class="xMj">3p&lt;/span>
+ 切りで &lt;span class="xMj">7p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">1p3p3p4p6p&lt;/span>
+ から &lt;span class="xMj">5ph4p6p&lt;/span>
+ チー &lt;span class="xMj">3p&lt;/span>
+ 切りで &lt;span class="xMj">2p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p3p4p4p6p&lt;/span>
+ から &lt;span class="xMj">5ph4p6p&lt;/span>
+ チー &lt;span class="xMj">3p&lt;/span>
+ 切りで &lt;span class="xMj">2p5p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p4p6p6p7p&lt;/span>
+ から &lt;span class="xMj">5ph4p6p&lt;/span>
+ チー &lt;span class="xMj">3p&lt;/span>
+ 切りで &lt;span class="xMj">5p8p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p4p6p8p8p&lt;/span>
+ から &lt;span class="xMj">5ph4p6p&lt;/span>
+ チー &lt;span class="xMj">3p&lt;/span>
+ 切りで &lt;span class="xMj">8p&lt;/span>
+ 待ち&lt;/li>
+&lt;/ul>
+&lt;h2 id="逆側の筋は">逆側の筋は？&lt;/h2>
+&lt;p>ちなみに、上記は鳴いた牌にかかる方向の筋が安全という理屈でしたが、逆方向の筋も通常安全です。
+例えば、&lt;/p></description></item><item><title>捨て牌読み: トイトイ狙いのポンで隣の牌が切られたら注意</title><link>https://mj.maku.blog/p/eqr9fsr/</link><pubDate>Sat, 27 Apr 2024 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/eqr9fsr/</guid><description>&lt;span class="xMjCenter">8s8sh8s-9p9p9ph&lt;/span>
+
+&lt;p>こんな感じで鳴いていて、ほぼトイトイ狙いっぽい人がいたとします。
+この人が次に &lt;span class="xMj">2p&lt;/span>
+ をポンしてその隣の &lt;span class="xMj">3p&lt;/span>
+ を切ってきた場合は要注意です。&lt;/p>
+&lt;p>この場合、&lt;span class="xMj">2p2p3p&lt;/span>
+ のような形で持っていたことになりますが、そもそも狙いをトイトイ一本に絞っているのであれば、&lt;span class="xMj">3p&lt;/span>
+ のような後々危険になりそうな牌をずっと持っておくことはないはずです。
+つまり、&lt;span class="xMj">1p2p3p&lt;/span>
+ や &lt;span class="xMj">2p3p4p&lt;/span>
+ のような順子になったとしても &lt;strong>トイトイ以外の役があって和了れる形&lt;/strong> であったことが示唆されます。&lt;/p>
+&lt;p>典型的なのはこんな感じでしょうか。&lt;/p>
+&lt;span class="xMjCenter">2p2p3p5z5z7z7z--8s8sh8s-9p9p9ph&lt;/span>
+
+&lt;p>あるいは、すでにドラの役牌がアンコになっているとか。&lt;/p>
+&lt;span class="xMjCenter">2p2p3p7z7z7z3z--8s8sh8s-9p9p9ph&lt;/span>
+
+&lt;p>ようするに、&lt;strong>ポン牌の隣の牌が切られたら字牌に要注意&lt;/strong> ということです。&lt;/p></description></item><item><title>捨て牌読み: 24 カンチャン落としにウラ筋なし</title><link>https://mj.maku.blog/p/u9cegbf/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/u9cegbf/</guid><description>&lt;span class="xMjCenter">2m3p7s4m&lt;/span>
+
+&lt;p>のように、間をあけて &lt;span class="xMj">2m&lt;/span>
+ → &lt;span class="xMj">4m&lt;/span>
+ と手出しで切られた場合は、&lt;span class="xMj">5m8m&lt;/span>
+ の筋は比較的通ることが多いです。&lt;/p>
+&lt;p>&lt;span class="xMj">2m4m6m7m&lt;/span>
+ の形からターツ落としするのであれば、安全度を考慮して &lt;span class="xMj">4m&lt;/span>
+ → &lt;span class="xMj">2m&lt;/span>
+ と外すはず。
+逆に、上記のような切り順になる典型的な形は &lt;span class="xMj">2m4m4m5m&lt;/span>
+ です。
+&lt;span class="xMj">2m&lt;/span>
+ を外しておいて、&lt;span class="xMj">4m4m5m&lt;/span>
+ でしばらく粘ったと考えるのが自然です。
+&lt;span class="xMj">3p&lt;/span>
+ や &lt;span class="xMj">7s&lt;/span>
+ のようなキー牌よりも &lt;span class="xMj">4m&lt;/span>
+ を温存しておいたということは、その可能性はなかり高いです。&lt;/p>
+&lt;p>&lt;span class="xMj">2m4m6m&lt;/span>
+ というリャンカンから、早い段階で &lt;span class="xMj">2m&lt;/span>
+ を切ってしまうことも少ないでしょう。
+&lt;span class="xMj">2m4m4m5m6m6m7m&lt;/span>
+ という複合系であっても、&lt;span class="xMj">2m&lt;/span>
+ 切りよりは、&lt;span class="xMj">4m&lt;/span>
+ 切りで &lt;span class="xMj">2m4m5m6m6m7m&lt;/span>
+ として、受け入れ枚数を最大にすることが多いと思います。&lt;/p>
+&lt;p>よって、上記のような捨て牌では、&lt;span class="xMj">5m8m&lt;/span>
+ は勝負です！&lt;/p></description></item><item><title>捨て牌読み: リーチ宣言牌で読む</title><link>https://mj.maku.blog/p/3is29hp/</link><pubDate>Tue, 19 Oct 2021 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/3is29hp/</guid><description>&lt;h2 id="ドラ表示牌切りリーチは-2-つ上が安全">ドラ表示牌切りリーチは 2 つ上が安全&lt;/h2>
+&lt;p>ドラ表示牌が &lt;span class="xMj">6p&lt;/span>
+ のとき、中盤で &lt;span class="xMj">6p&lt;/span>
+ 切りリーチがかかったときの手を考えてみます。
+&lt;span class="xMj">6p6p7p&lt;/span>
+ という形からは、ドラを使い切ることと安全度を考えて &lt;span class="xMj">6p&lt;/span>
+ は早めに切ることが多いです。
+つまり、ドラを跨ぐ &lt;span class="xMj">8p&lt;/span>
+ は比較的安全だと考えられます。&lt;/p>
+&lt;p>逆に、完全イーシャンテンで &lt;span class="xMj">5p6p6p&lt;/span>
+ という形を残していることは十分考えられるため、&lt;span class="xMj">4p7p&lt;/span>
+ は安全ではありません。&lt;/p>
+&lt;h2 id="5-切りリーチは-19-が安全">5 切りリーチは 1、9 が安全&lt;/h2>
+&lt;p>早い 5 切りに 1-4 や 6-9 の筋が危険なのは今も昔も変わりませんが、デジタルな打ち手が多い現在では、リーチ宣言牌が 5 の場合は、1 や 9 は比較的安全だと考えられます。
+なぜなら、&lt;span class="xMj">3s5s&lt;/span>
+ という形から &lt;span class="xMj">2s&lt;/span>
+ 引きを待つよりも、カン &lt;span class="xMj">4s&lt;/span>
+ 待ち即リーが主流だからです。
+もちろん、またぎ筋の &lt;span class="xMj">3s6s&lt;/span>
+ 待ちや &lt;span class="xMj">4s7s&lt;/span>
+ 待ちは十分に考えられますし、123 や 789 の三色狙いやイッツー狙いの場合は例外になります。&lt;/p>
+&lt;h2 id="安牌字牌切りリーチはまたぎ筋と筋が安全">安牌（字牌）切りリーチはまたぎ筋と筋が安全&lt;/h2>
+&lt;p>序盤から中盤にかけて、安全牌を切ってリーチをかけてきた場合、またぎ筋は比較的安全です。
+なぜなら、早い段階では、&lt;span class="xMj">3m3m4m4z&lt;/span>
+ という形からはテンパイチャンスを増やすために安全牌の &lt;span class="xMj">4z&lt;/span>
+ を先に切り出すことが多いからです。
+&lt;span class="xMj">3m&lt;/span>
+ が先に切られているのであれば、&lt;span class="xMj">3m4m&lt;/span>
+ という形が残っていることは少ないと考えられます。&lt;/p>
+&lt;p>また、先に切られている牌の筋となる牌も安全です。
+なぜなら、&lt;span class="xMj">2p4p6p4z&lt;/span>
+ のような形からは、リャンカン形を残したいので、&lt;span class="xMj">6p&lt;/span>
+ が先に切られることは少ないからです。&lt;/p>
+&lt;p>逆に、危険なのは裏筋です。
+孤立牌へのくっつきテンパイを目指しているのであれば、&lt;span class="xMj">4z&lt;/span>
+ よりもそちらの孤立牌を残すはずなので、くっつきテンパイの可能性は低いです。
+となると、&lt;span class="xMj">7m8m3s4s4z&lt;/span>
+ のような完全イーシャンテンではない両面両面からの &lt;span class="xMj">4z&lt;/span>
+ 切りリーチの可能性が高く、その形になる過程で &lt;span class="xMj">5m&lt;/span>
+ や &lt;span class="xMj">6s&lt;/span>
+ が切られることが多いからです。&lt;/p></description></item><item><title>捨て牌読み: 筋の安全度は早く切られた牌ほど高い</title><link>https://mj.maku.blog/p/tfr3dnx/</link><pubDate>Tue, 19 Oct 2021 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/tfr3dnx/</guid><description>&lt;p>安全牌を探すときに相手の捨て牌のスジを頼るときは、早く切られた牌のスジの方が安全である可能性が高いです。
+なぜなら、&lt;/p>
+&lt;ul>
+&lt;li>&lt;span class="xMj">6p9p&lt;/span>
+ という形からは &lt;span class="xMj">9p&lt;/span>
+ が真っ先に切られるので、&lt;span class="xMj">6p&lt;/span>
+ はすでに手中にある可能性が高い&lt;/li>
+&lt;li>&lt;span class="xMj">2p4p6p&lt;/span>
+ というリャンカン形からは、&lt;span class="xMj">2p&lt;/span>
+ や &lt;span class="xMj">6p&lt;/span>
+ がすぐに切られることはなく、その筋の牌でカンチャン待ちになっている可能性は低い&lt;/li>
+&lt;/ul>
+&lt;p>といったことが言えるからです。&lt;/p>
+&lt;p>あと、&lt;strong>リーチ後に切られた牌のスジはほとんどあてにならない&lt;/strong> ことは覚えておきましょう。
+なぜなら、&lt;span class="xMj">1m3m&lt;/span>
+ のカンチャン待ちリーチの後に、&lt;span class="xMj">5m&lt;/span>
+ を持ってくることはよくあるからです。&lt;/p></description></item><item><title>捨て牌読み: 終盤の2枚目の端牌切りを読む</title><link>https://mj.maku.blog/p/7r6ht5g/</link><pubDate>Wed, 26 Aug 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/7r6ht5g/</guid><description>&lt;p>序盤から中盤にかけて 1、9 牌を切っている人が、終盤でもう一枚同じ牌を切ってきた場合、どのような手になっていると考えられるでしょうか？&lt;/p>
+&lt;p>結論から言うと、このような切り出しが行われた場合、1-4 の交換、あるいは 6-9 の交換による &lt;strong>タンヤオ振り替えの可能性&lt;/strong> が高いです。&lt;/p>
+&lt;p>一度 &lt;span class="xMj">9p&lt;/span>
+ を切っているのに、手中に &lt;span class="xMj">9p&lt;/span>
+ がもう一枚あったということは、&lt;span class="xMj">7p8p9p9p&lt;/span>
+ からの &lt;span class="xMj">7p8p9p&lt;/span>
+ メンツ確定の &lt;span class="xMj">9p&lt;/span>
+ 切りだったと読めます。
+仮に他の形、たとえば &lt;span class="xMj">7p9p9p&lt;/span>
+ とか &lt;span class="xMj">8p9p9p&lt;/span>
+ という不十分な形であれば、&lt;span class="xMj">9p&lt;/span>
+ は残したくなるので、最初の &lt;span class="xMj">9p&lt;/span>
+ 切りの時点でメンツが確定している考えるのが自然です。&lt;/p>
+&lt;p>ということは、&lt;span class="xMj">7p8p9p&lt;/span>
+ という形から何らかの理由で &lt;span class="xMj">9p&lt;/span>
+ を切ったということなのですが、一番多いパターンは、&lt;span class="xMj">6p&lt;/span>
+ 引きの &lt;span class="xMj">9p&lt;/span>
+ との入れ替えでしょう。
+このような 1-4、6-9 牌の入れ替えは、実戦でもよく経験があると思います。&lt;/p>
+&lt;p>&lt;strong>重要なのは、そこから先の考え方&lt;/strong> で、&lt;span class="xMj">6p7p8p&lt;/span>
+ が一枚ずつ持たれているので、「それらの牌はもう山には残っていない」とか、「その周辺の牌は実は安全だ」とか、そういった応用的な考え方ができると強いですね。&lt;/p></description></item><item><title>捨て牌読み: ペンチャン・カンチャン落としからのリーチにまたぎ筋なし</title><link>https://mj.maku.blog/p/h5iu8iu/</link><pubDate>Tue, 28 Jul 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/h5iu8iu/</guid><description>&lt;span class="xMjCenter">1p7z5z4m8s9s4z&lt;/span>
+
+&lt;p>リーチの直前にこのようにペンチャンやカンチャンが（手出しで）落とされている場合の手を読んでみます。&lt;/p>
+&lt;p>ペンチャンやカンチャンのターツを途中まで残していたということは、それでメンツの完成を狙っていたと考えるのが自然です。
+&lt;span class="xMj">4m&lt;/span>
+ はそれよりも前に切られていますが、仮にこの周りに別の牌があってターツの形になっていたのであれば、ペンチャンやカンチャンよりもよい形なので、そちらを残しているはずです。
+&lt;span class="xMj">4m4m5m&lt;/span>
+ という形からリャンメン固定で &lt;span class="xMj">4m&lt;/span>
+ が切られることもあるかもしれませんが、メンツが欲しい時にそのような切り出しをすることは少ないでしょう。
+また、雀頭よりもメンツが欲しいというときに、&lt;span class="xMj">4m5m5m&lt;/span>
+ から雀頭固定の &lt;span class="xMj">4m&lt;/span>
+ 切りも考えにくいです。
+あるとすれば、&lt;span class="xMj">4m5m5m5m&lt;/span>
+ からの暗刻確定でしょうか。&lt;/p>
+&lt;p>こう考えると、&lt;strong>ペンチャン・カンチャン落とし前に切られた牌のまたぎ筋が残っていることは少なく&lt;/strong>、このような場合は &lt;strong>無筋の方が危険&lt;/strong> といえそうです。&lt;/p></description></item><item><title>捨て牌読み: 序盤のオタ風牌切りリーチにまたぎ筋なし</title><link>https://mj.maku.blog/p/7yhwcr7/</link><pubDate>Tue, 28 Jul 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/7yhwcr7/</guid><description>&lt;span class="xMjCenter">9p7z8s3m3p4zh&lt;/span>
+
+&lt;p>こんな感じの捨て牌で早めにリーチがかかったとします。
+リーチの数巡前の捨て牌のまわりは危険だと言われますが、このような序盤でのオタ風牌切りリーチの場合、それより前に切られた牌のまたぎ筋にはなっていなことが多いです（もちろん絶対ではないですが）。
+例えば、次のようなイーシャンテンを考えてみます。&lt;/p>
+&lt;span class="xMjCenter">1s2s3s5s5s5s6m7m9m9m3p3p4p-4z&lt;/span>
+
+&lt;p>&lt;span class="xMj">3z&lt;/span>
+ や &lt;span class="xMj">4z&lt;/span>
+ といったオタ風牌は、終盤の手作りでは安牌として抱えられることが多いのですが、序盤の手作りでは安牌を抱えるよりも、目一杯に手を広げた方が有利です。
+つまり、この手牌であれば、&lt;span class="xMj">3p&lt;/span>
+ → &lt;span class="xMj">4z&lt;/span>
+ の切り順ではなく、&lt;span class="xMj">4z&lt;/span>
+ → &lt;span class="xMj">3p&lt;/span>
+ の切り順になるはずです。
+逆にこのような早いリーチで安牌の &lt;span class="xMj">4z&lt;/span>
+ が手中に残っていたということは、他の牌はまったく必要なく、手牌が十分型だったからこそ切られたのだと考えられます。
+よって、 &lt;strong>早い段階でのオタ風牌切りリーチは、またぎ筋は比較的安全&lt;/strong> であり、それより警戒すべきは無筋だといえます。&lt;/p>
+&lt;p>ちなみに、上記の捨牌では、またぎ筋の &lt;span class="xMj">1p4p&lt;/span>
+ 待ちや &lt;span class="xMj">2p5p&lt;/span>
+ 待ちは少ないのですが、裏筋の &lt;span class="xMj">4p7p&lt;/span>
+ は普通にあり得ます。&lt;/p>
+&lt;span class="xMjCenter">1s2s3s5s5s5s6m7m9m9m3p5p4z-6p&lt;/span>
+
+&lt;p>こんな風に、カンチャンからリャンメンへの変化で、&lt;span class="xMj">3p&lt;/span>
+ → &lt;span class="xMj">4z&lt;/span>
+ という切り順になることがあるからです。&lt;/p></description></item><item><title>捨て牌読み: チャンタで中盤の 8 切りは 9 待ち</title><link>https://mj.maku.blog/p/68uqjjz/</link><pubDate>Fri, 01 Nov 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/68uqjjz/</guid><description>&lt;p>捨て牌がチャンタ狙いっぽいときに、中盤以降に &lt;span class="xMj">8p&lt;/span>
+ が切られた場合は、下記のような形から、&lt;span class="xMj">9p&lt;/span>
+ を雀頭にした可能性が高いです。&lt;/p>
+&lt;span class="xMjCenter">8p9p9p&lt;/span>
+
+&lt;p>チャンタ狙いの場合は、字牌もトイツで持っている可能性が高いので、必然的に &lt;span class="xMj">9p&lt;/span>
+ と他の字牌等とのシャンポン待ちが危険ということになります。&lt;/p>
+&lt;p>では、ペン &lt;span class="xMj">7p&lt;/span>
+ 待ちの可能性は考慮しなくてよいのでしょうか？&lt;/p>
+&lt;p>中盤以降で &lt;span class="xMj">8p&lt;/span>
+ を捨ててペン &lt;span class="xMj">7p&lt;/span>
+ 待ちとなるということは、そこまで下記のような形で持っていたということになります。&lt;/p>
+&lt;span class="xMjCenter">8p8p9p&lt;/span>
+
+&lt;p>この形から、&lt;span class="xMj">7p&lt;/span>
+ 2枚、&lt;span class="xMj">9p&lt;/span>
+ 1枚を引いて一盃口（イーペイコウ）を完成させるのはなかなか難しいので、多くの人は比較的早く &lt;span class="xMj">8p&lt;/span>
+ を一枚外すはずです。
+つまり、遅くに &lt;span class="xMj">8p&lt;/span>
+ が切られた場合のペン &lt;span class="xMj">7p&lt;/span>
+ 待ちは、&lt;span class="xMj">9p&lt;/span>
+ ほどは警戒しなくてもよいと言えます。&lt;/p></description></item><item><title>捨て牌読み: 離れたターツ落としの即リーはまたぎ待ち</title><link>https://mj.maku.blog/p/7qaqseo/</link><pubDate>Mon, 21 Oct 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/7qaqseo/</guid><description>&lt;p>&lt;span class="xMj">7m&lt;/span>
+を切ってから、しばらくして &lt;span class="xMj">8m&lt;/span>
+を切ってくる場合は、その周りの牌があったということなので、&lt;/p>
+&lt;p>&lt;span class="xMjCenter">7m7m8m8m&lt;/span>&lt;/p>
+&lt;p>からの &lt;span class="xMj">7m8m&lt;/span>
+外しの可能性が高いです。
+よくあるのが次のようなメンツオーバーの形。&lt;/p>
+&lt;p>&lt;span class="xMjCenter">7m7m8m8m2p3p6p7p8p6s7s1z1z1z&lt;/span>&lt;/p>
+&lt;p>三色が見えるので、ここからは &lt;span class="xMj">7m&lt;/span>
+を落としておいて、下記の形にしておくのが手筋です。&lt;/p>
+&lt;p>&lt;span class="xMjCenter">7m8m8m2p3p6p7p8p6s7s1z1z1z&lt;/span>&lt;/p>
+&lt;p>&lt;span class="xMj">8m&lt;/span>
+は雀頭候補になりますから、目一杯に打つのであれば、すぐに &lt;span class="xMj">8m&lt;/span>
+を切ることはありません。
+ピンズ、ソーズが埋まれば &lt;span class="xMj">7m&lt;/span>
+切りリーチです。
+一方、先に &lt;span class="xMj">6m&lt;/span>
+を引いてマンズのメンツが完成したら、牌効率的に &lt;span class="xMj">8m&lt;/span>
+を外しておきます。&lt;/p>
+&lt;p>&lt;span class="xMjCenter">6m7m8m2p3p6p7p8p6s7s1z1z1z&lt;/span>&lt;/p>
+&lt;p>つまり、マンズが完成して、&lt;strong>リーチ宣言牌より前に &lt;span class="xMj">7m8m&lt;/span>
+が並んでいる場合、跨ぎ筋の待ちにはなりにくい&lt;/strong> ことになります。
+逆に跨ぎ筋の待ちになるのは、次のような完全イーシャンテンになったとき。&lt;/p>
+&lt;p>&lt;span class="xMjCenter">7m8m8m2p2p6p7p8p6s7s1z1z1z&lt;/span>&lt;/p>
+&lt;p>&lt;span class="xMj">8m&lt;/span>
+は雀頭候補なのでギリギリまで引っ張りますが、先に &lt;span class="xMj">5s8s&lt;/span>
+が埋まると、雀頭は &lt;span class="xMj">2p&lt;/span>
+になり、&lt;span class="xMj">8m&lt;/span>
+切りの両面待ちになります。
+つまり、&lt;strong>両面待ちターツ落とし後の即リーだと跨ぎ筋の両面待ちになりやすい&lt;/strong> とうことになります。&lt;/p>
+&lt;p>もちろん例外もあります。
+マンガ &lt;a target="_blank" href="https://www.amazon.co.jp/dp/4537129948?tag=maku04-22">『天牌67巻』&lt;/a>
+で山田さんは下記の手牌から &lt;span class="xMj">7m8m&lt;/span>
+と落としていきますが、このようなケースではマンズ待ちは残りません。&lt;/p>
+
+
+&lt;figure class="xImage">
+ &lt;img style="" width="300" height="323" src="../../p/7qaqseo/20191021-001_hu3052082908128306845.png" alt="/p/7qaqseo/20191021-001.png" />
+&lt;/figure>
+
+&lt;p>でもこんな一盃口の形を崩していくはレアケースかな。
+あるとすれば別の場所で三色になりそうで強引に狙っていくといき。&lt;/p></description></item><item><title>捨て牌読み: 序盤の 3 切りと 4 切りについて考える</title><link>https://mj.maku.blog/p/ejvw7wv/</link><pubDate>Sat, 28 Sep 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/ejvw7wv/</guid><description>&lt;p>1、2 牌が切られていないのに 3、4、5 が切られている場合は、1、2 牌は手の内にあるのでしょうか？&lt;/p>
+&lt;p>序盤のうちに &lt;span class="xMj">1p3p&lt;/span>
+/ &lt;span class="xMj">2p3p&lt;/span>
+/ &lt;span class="xMj">1p1p3p&lt;/span>
+/ &lt;span class="xMj">2p2p3p&lt;/span>
+という形から、&lt;span class="xMj">3p&lt;/span>
+を切り出していくことは少ないので、&lt;span class="xMj">3p&lt;/span>
+が早い段階で切られているときは、その外側はかなり安全だと考えられます。
+昭和時代には、&lt;span class="xMj">2p3p3p&lt;/span>
+という形から &lt;span class="xMj">3p&lt;/span>
+を先切りするという戦法もありましたが、現在はマイナーでしょう。あるとすればチャンタの決めうちの場合でしょうか。&lt;/p>
+&lt;p>一方、4 や 5 の先切りはチャンタや三色が絡むケース、例えば &lt;span class="xMj">1p1p2p4p&lt;/span>
+からの &lt;span class="xMj">4p&lt;/span>
+外しは十分に考えられます。
+なので、序盤に &lt;span class="xMj">4p&lt;/span>
+が切られているときに、その外側の &lt;span class="xMj">1p&lt;/span>
+/ &lt;span class="xMj">2p&lt;/span>
+が安全と考えるのは早計です。&lt;/p></description></item><item><title>捨て牌読み: 役牌のポンテンに側テン（そばてん）なし</title><link>https://mj.maku.blog/p/ogo4jv5/</link><pubDate>Sun, 31 Mar 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/ogo4jv5/</guid><description>&lt;p>例えば今 &lt;span class="xMj">7z&lt;/span>
+ をツモって、次のような手牌になったとします。
+よくあるイーシャンテンの選択です。&lt;/p>
+&lt;span class="xMjCenter">1s2s3s1p2p3p7p7p8p7m8m8m7z7z&lt;/span>
+
+&lt;p>ここからは、好形のリャンメン形を残したいので、例えば &lt;span class="xMj">7p&lt;/span>
+ を 1 枚外して次のような完全一向聴（2両面＋2対子で最終的に両面待ちになる形）に受けるのが一般的でしょう。&lt;/p>
+&lt;span class="xMjCenter">1s2s3s1p2p3p7p8p7m8m8m7z7z&lt;/span>
+
+&lt;p>ここから &lt;span class="xMj">7z&lt;/span>
+ をポンすると、&lt;span class="xMj">7m&lt;/span>
+ 切りの &lt;span class="xMj">6p9p&lt;/span>
+ 待ちにになります。
+つまり、&lt;strong>完全一向聴からのポン後に切った牌の周りはリャンメン受けがなくなって雀頭として固定される&lt;/strong>ことになり、その周りは待ち牌になりません。
+これが、「ポンテンに側テンなし」と言われる理由です。&lt;/p>
+&lt;p>しかし、この格言には例外があります。
+役牌のトイツを 2 種類持っている場合です。
+例えば、&lt;/p>
+&lt;span class="xMjCenter">1s2s3s4s5s6s2p2p3p5z5z7z7z&lt;/span>
+
+&lt;p>こんな形のイーシャンテンから、&lt;span class="xMj">5z&lt;/span>
+ あるいは &lt;span class="xMj">7z&lt;/span>
+ のポンでテンパイに取った場合です。
+このような「1両面＋3対子」の形からポンテンした場合、&lt;span class="xMj">2p&lt;/span>
+ 切りのリャンメンに受けようが、&lt;span class="xMj">3p&lt;/span>
+ 切りのシャンポンに受けようが、最後に切った牌の側テン（&lt;span class="xMj">1p2p4p&lt;/span>
+ のいずれか）になります。
+役牌ポンでテンパイと読むのであれば、もう一種類の役牌が対子で持たれていないか、という見極めが大切になってきます。
+&lt;strong>他の役牌は持たれていないと読めれば、今切られた牌の周りは比較的安全&lt;/strong> です。
+まぁ、あるとすれば、19牌のシャボなどですね。&lt;/p>
+&lt;p>上記の例は、ポンテン時の &lt;span class="xMj">2p&lt;/span>
+ 切りで側テンの跨ぎ筋である &lt;span class="xMj">1p4p&lt;/span>
+ 待ちが残ってしまう例外パターンでしたが、少なくともすぐ隣の &lt;span class="xMj">3p&lt;/span>
+ に関しては比較的通りやすいことを覚えておいて損はないと思います。
+なぜなら、　&lt;/p>
+&lt;span class="xMjCenter">2p4p5p8m8m&lt;/span>
+
+&lt;p>という形で &lt;span class="xMj">2p&lt;/span>
+ を残すことはないし、&lt;/p>
+&lt;span class="xMjCenter">2p3p4p5p6p9m9m&lt;/span>
+
+&lt;p>といった形であれば、&lt;span class="xMj">9m&lt;/span>
+ は鳴かずに三面張を残すだろうからです。
+もちろん、&lt;/p>
+&lt;span class="xMjCenter">2p2p4p8m8m&lt;/span>
+
+&lt;p>という形からカンチャン待ちを残すケースや、&lt;/p>
+&lt;span class="xMjCenter">2p4p4p8m8m&lt;/span>
+
+&lt;p>という形からシャンポン待ちを残すケースは考えられますが、少なくとも跨ぎ筋となる &lt;span class="xMj">1p4p&lt;/span>
+ ほど危険ではないので、勝負手であれば &lt;span class="xMj">3p&lt;/span>
+ は押す価値ありです。&lt;/p></description></item><item><title>捨て牌読み: 自然なワンチャンスと人工的なワンチャンスを見分ける</title><link>https://mj.maku.blog/p/rc8dnk7/</link><pubDate>Tue, 12 Mar 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/rc8dnk7/</guid><description>&lt;p>他家のリーチ後に &lt;span class="xMj">6p&lt;/span>
+が 3 枚見えたとすると、&lt;span class="xMj">7p&lt;/span>
+と &lt;span class="xMj">8p&lt;/span>
+はワンチャンスとなります。&lt;/p>
+&lt;p>ただ、このワンチャンス、どのような過程でワンチャンスになったか確認していますか？&lt;/p>
+&lt;p>&lt;span class="xMj">6p&lt;/span>
+がどのように切られてワンチャンスとなったのかによって、その安全度は変わってきます。
+例えば、&lt;span class="xMj">6p&lt;/span>
+切りでリーチがかけられたあとに、他の 2 人がオリ気味に &lt;span class="xMj">6p&lt;/span>
+を切ってきたのであれば、それは&lt;strong>人工的に作られたワンチャンス&lt;/strong>であり、またぎ筋は決して安全とは言えません。&lt;/p>
+&lt;p>逆に、オリの意思がなく、バラバラと &lt;span class="xMj">6p&lt;/span>
+が切られているのであれば、それは純粋で&lt;strong>自然なワンチャンス&lt;/strong>であり、またぎ筋は比較的安全と言えます。&lt;/p>
+&lt;p>人工的なワンチャンスでしかない危険牌を切り出しておいて、「ワンチャンスなのに当たっちゃった、ツイてない〜」って言わないようにしましょー。&lt;/p></description></item><item><title>捨て牌読み: カンチャン落としを読む（46 切りと 64 切りの違い）</title><link>https://mj.maku.blog/p/7u7nixe/</link><pubDate>Sat, 02 Feb 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/7u7nixe/</guid><description>&lt;p>捨て牌に数巡あけて &lt;span class="xMj">4m6m&lt;/span>
+や &lt;span class="xMj">6m4m&lt;/span>
+のようにカンチャンターツが切られているときは、リャンカン残しからのカンチャン落としを考慮する必要があります。&lt;/p>
+&lt;p>カンチャン落としをしているのにも関わらず、片方の牌をしばらく持っていたということは、その牌の周りの牌も持っている可能性が高いということです。
+&lt;span class="xMj">4m6m&lt;/span>
+の順番で切られているときは &lt;span class="xMj">2m4m4m6m&lt;/span>
+あるいは &lt;span class="xMj">4m6m6m7m&lt;/span>
+からの切り出し、&lt;span class="xMj">6m4m&lt;/span>
+の順番で切られているときは &lt;span class="xMj">4m6m6m8m&lt;/span>
+あるいは &lt;span class="xMj">3m4m4m6m&lt;/span>
+からの切り出しである可能性が高いです。&lt;/p>
+&lt;p>つまり、&lt;strong>カンチャン落としのケースでは、後から切られた牌の筋は比較的危険&lt;/strong>であることが多いということです。
+逆に、&lt;strong>先に切られた牌の筋は安全&lt;/strong>です。&lt;/p>
+&lt;p>ちなみに、赤 5 入りのルールの場合、&lt;span class="xMj">3m5m5m7m&lt;/span>
+という形からは、赤 &lt;span class="xMj">0m&lt;/span>
+のツモを狙って &lt;span class="xMj">3m5m&lt;/span>
+という切り順になることがあります。
+このケースでは先に切られた牌の筋 &lt;span class="xMj">6m&lt;/span>
+が危険ということになりますが、どちらかというとレアケースでしょう。&lt;/p></description></item><item><title>捨て牌読み: 中盤以降の 9 → 3 切りに引っ掛けあり</title><link>https://mj.maku.blog/p/k4skqna/</link><pubDate>Mon, 27 Aug 2018 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/k4skqna/</guid><description>&lt;p>特に赤 5 入りの麻雀では顕著ですが、&lt;/p>
+&lt;p>&lt;span class="xMjCenter">3p0p7p9p&lt;/span>&lt;/p>
+&lt;p>という形から &lt;span class="xMj">9p&lt;/span>
+→ &lt;span class="xMj">3p&lt;/span>
+という順番で落として、引っ掛けの &lt;span class="xMj">6p&lt;/span>
+待ちリーチというケースがまれにあります。
+もちろん、&lt;span class="xMj">9p&lt;/span>
+がオタ風牌よりも早い段階で切られている場合は、単純に浮いていた可能性が高いですが、字牌より後に &lt;span class="xMj">9p&lt;/span>
+が手出しで切られた場合は大いにマークすべき形でしょう。&lt;/p></description></item><item><title>捨て牌読み: 赤5が切られているときは3,7が安全</title><link>https://mj.maku.blog/p/vtbvcpa/</link><pubDate>Sat, 28 Jul 2018 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/vtbvcpa/</guid><description>&lt;p>&lt;span class="xMjCenter">4p5p0p&lt;/span>&lt;/p>
+&lt;p>&lt;span class="xMjCenter">5p0p6p&lt;/span>&lt;/p>
+&lt;p>上記のような形から &lt;span class="xMj">5p&lt;/span>
+ではなく、あえて &lt;span class="xMj">0p&lt;/span>
+を切る可能性は低いので、&lt;span class="xMj">0p&lt;/span>
+が切られているときは、3-6、4-7 待ちの可能性は低いと言えます。&lt;/p>
+&lt;p>ただし、&lt;span class="xMj">2p3p0p&lt;/span>
+という形をテンパイぎりぎりまで引っ張ってリーチということがあるので、&lt;span class="xMj">0p&lt;/span>
+切りリーチの場合は、1-4、6-9 待ちは普通にあります。
+逆に、&lt;span class="xMj">0p&lt;/span>
+の出が早い場合は、手の中に &lt;span class="xMj">2p3p&lt;/span>
+や &lt;span class="xMj">7p8p&lt;/span>
+があることは少ないので、1-4、6-9 は比較的安全と言えます。
+&lt;span class="xMj">3p0p&lt;/span>
+という形から &lt;span class="xMj">2p&lt;/span>
+がくっついて 1-4 待ちになることもありますが、この形からはカンチャン待ちでそのままリーチにいくことも多いため、あまり考慮しなくてもよいでしょう。&lt;/p>
+&lt;p>また、&lt;span class="xMj">0p&lt;/span>
+切りリーチの場合は、&lt;span class="xMj">1p3p0p&lt;/span>
+あるいは &lt;span class="xMj">0p7p9p&lt;/span>
+のリャンカン形からのひっかけリーチがあることに注意が必要です（特に 123、789 の3色狙いの場合）。リャンカン形から赤を早切りすることは少ないので、&lt;span class="xMj">0p&lt;/span>
+が早めに切られているときは、比較的安全かと思います。&lt;/p>
+&lt;p>まとるめると以下のようになります。&lt;/p>
+&lt;ul>
+&lt;li>捨て牌に &lt;span class="xMj">0p&lt;/span>
+があるときは、&lt;span class="xMj">3p&lt;/span>
+と &lt;span class="xMj">7p&lt;/span>
+は安全。&lt;/li>
+&lt;li>&lt;span class="xMj">0p&lt;/span>
+切りリーチは、まれに即引っ掛けの &lt;span class="xMj">2p&lt;/span>
+、&lt;span class="xMj">8p&lt;/span>
+待ちがあるが、&lt;span class="xMj">0p&lt;/span>
+が早めに切られているときは安全。&lt;/li>
+&lt;li>&lt;span class="xMj">0p&lt;/span>
+切りリーチは、まれに平和狙いの 1-4、6-9 待ちがあるが、&lt;span class="xMj">0p&lt;/span>
+が早めに切られているときは安全。&lt;/li>
+&lt;/ul></description></item><item><title>捨て牌読み: 54 という切り順は特殊</title><link>https://mj.maku.blog/p/4766gpt/</link><pubDate>Sun, 10 Dec 2017 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/4766gpt/</guid><description>&lt;p>赤ドラが見えていない状況では、&lt;span class="xMj">4p4p5p5p&lt;/span>
+という形からは、赤引きを考えて、&lt;span class="xMj">4p5p&lt;/span>
+という順番で切るのがセオリーです。
+にもかかわらず、&lt;span class="xMj">5p4p&lt;/span>
+という順番で切られるときは、何か特殊な事情があります。
+例えば、&lt;/p>
+&lt;p>&lt;span class="xMjCenter">5p6p7p8p9p5m6m7m8m9m4s4s4s5s&lt;/span>&lt;/p>
+&lt;p>という形から &lt;span class="xMj">5s4s&lt;/span>
+と外したのであれば、その周りに待ちはありません。&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1m2m3m4m5m2p3p2s3s1z1z1z2z2z&lt;/span>&lt;/p>
+&lt;p>という形から &lt;span class="xMj">5m4m&lt;/span>
+と外したのであれば、その周りに待ちはなく、他の色の 1-4 待ちで 123 の三色が考えられます。&lt;/p>
+&lt;p>過信は禁物ですが、赤入り麻雀において、&lt;span class="xMj">4m5m&lt;/span>
+ という順番で切られた場合は &lt;span class="xMj">3m6m&lt;/span>
+ 待ちが大いにあり得ますが、&lt;span class="xMj">5m4m&lt;/span>
+ という順番で切られた場合は &lt;span class="xMj">3m6m&lt;/span>
+ は比較的安全と言えます。&lt;/p></description></item></channel></rss>

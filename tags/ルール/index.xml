@@ -1,12 +1,861 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ルール on まくまく麻雀ノート</title><link>https://mj.maku.blog/tags/%E3%83%AB%E3%83%BC%E3%83%AB/</link><description>Recent content in ルール on まくまく麻雀ノート</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Fri, 06 May 2022 00:00:00 +0900</lastBuildDate><atom:link href="https://mj.maku.blog/tags/%E3%83%AB%E3%83%BC%E3%83%AB/index.xml" rel="self" type="application/rss+xml"/><item><title>特殊麻雀ルール: 少牌マイティ（三麻）</title><link>https://mj.maku.blog/p/xgpx6dm/</link><pubDate>Fri, 06 May 2022 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/xgpx6dm/</guid><description>少牌マイティ は、手牌を常に少牌にした状態（12枚）で進める特殊な三麻ルールです。 足りない一枚は、オールマイティ扱いになるため、テンパイすると多くの牌が和了り牌になります。 小牌マイティという名前は、「小牌 + オールマイティ」というところから来ています。</description></item><item><title>特殊麻雀ルール: 多面待ち当てクイズ（2人麻雀）</title><link>https://mj.maku.blog/p/k9o2fr5/</link><pubDate>Fri, 24 Jul 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/k9o2fr5/</guid><description>2人で一色手の麻雀の待ちクイズを出し合い、先に答えた方が勝ちというゲームです。 チンイツのトレーニングになります。
-準備 一方にソーズ牌をすべて、もう一方にピンズ牌をすべて配る（問題作成用） マンズの1〜9を1枚ずつ配る（答えの提示用） ルール 10枚 or 13枚の待ち当てどちらを行うかを決める 決めた枚数（10枚 or 13枚）でそれぞれ多面待ちの問題を作る その牌を伏せた状態で相手に渡す 「ヨーイドン！」で表向きにし、待ち牌が分かったらマンズ牌でその牌を選び、「できた！」と言って前に出す 先に待ち牌を答えられた方が 1000 点を獲得します。 間違えた場合は相手が 1000 点獲得します。 先に 5000 点獲得した方が勝ちです。</description></item><item><title>特殊麻雀ルール: 10枚ミニ麻雀（2人麻雀）</title><link>https://mj.maku.blog/p/g4ivamz/</link><pubDate>Wed, 24 Jun 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/g4ivamz/</guid><description>2人で行うコンパクトな手積み麻雀ルールです。
-使用する牌を次のように少なくします（合計78枚）。
-マンズ: 1〜7 を3枚ずつ ソーズ: 1〜7 を3枚ずつ ピンズ: 1〜7 を3枚ずつ 字牌: 東/南/白/發/中 を3枚ずつ あとは、普通に山を積んでゲーム開始です。 牌の枚数が少ないので、次のような特徴があります。
-カンはできないので、嶺上牌は必要ない（ドラは一番端の牌をめくればよい） 8と9は使わないので、チャンタの上のシュンツは 789 ではなく 567 とする 四暗刻の代わりに三暗刻を役満とする 国士無双はなし（簡単なので） 下記は和了りの例です。
-2m3m4m2s3s4s2p3p4p6p6p &amp;hellip; タンピン三色 1m2m3m5s6s7s7p7p5z5z5z &amp;hellip; チャンタ、白 1z1z1z2z2z2z5z5z5z7z7z &amp;hellip; 字一色 1m1m1m7s7s7s5z5z5z6z6z &amp;hellip; ホンロー、トイトイ 2s2s3s3s4s4s6s6s6z6z6z &amp;hellip; 緑一色 1p1p1p2p3p4p5p6p7p7p7p &amp;hellip; ミニ九蓮（役満） 2m2m2m5m5m5m7s7s7s5z5z &amp;hellip; 三暗刻（役満） 1m7m1p7p1s7s1z2z5z6z7z &amp;hellip; ミニ国士（簡単すぎるので無し）</description></item><item><title>特殊麻雀ルール: 高速2人麻雀（山を積まない2人麻雀）</title><link>https://mj.maku.blog/rules/tokushu/tsumanai-futari/</link><pubDate>Wed, 27 Nov 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/rules/tokushu/tsumanai-futari/</guid><description>麻雀好きな友人と、部屋でまったりしているときに考えた2人麻雀ルールです（2人じゃなくてもできるかもしれません）。 やったことある人にはわかると思いますが、2人で手積み麻雀をやると、山を積むのが非常に面倒です。 そこで、その手間を省けるようにした超ズボラルールを考えたわけですが、これがやってみるとなかなか面白いので紹介しておきます。
-洗牌と配牌 まずは、配牌の作り方です。
-洗牌する（このとき半分くらい牌が表向きになっても構わない） 裏向きになった牌を13枚集めて相手に渡す（それが配牌になる） ただ適当に混ぜて、裏向きになった牌を集めて配牌を作るだけです。 山を積まなくてよいので、本当にすぐに配牌が作れます。 洗牌後に牌を裏返さなくてよいというのもスピードアップに一役買っています（後述のルールため、むしろ表向きの牌が残っていないといけません）。 自分の配牌ではなく、相手の配牌を作るのは、拾いによるズルをなくすための配慮です。
-手作りから和了りまで この時点で、2人の配牌ができあがり、卓上には表向きの牌と裏向きの牌がたくさん残っている状態になります。 ここからツモと打牌を繰り返していくのですが、次のような特殊ルールで進めていきます。
-ツモは表向きと裏向きの牌どちらを持ってきてもよい ロン和了りは普通にできるが、ツモ和了りは裏向きの牌でしかできない お分かりでしょうか？ 表向きの牌から欲しい牌を自由にツモってくることはできますが、それだけ相手に手牌を読まれやすくなります。 リーチも普通にできますが、リーチ後は裏向きの牌しかツモってこれません（裏向きの牌でしかツモ和了りはできないので）。
-相手の手牌がある程度見えているという点では、『アカギ』に出てくる鷲巣麻雀に似てますね。 字牌なんかを集めだすと、かなり警戒されることになります。 相手が欲しそうな牌を先にツモっちゃうとか、普通の麻雀にはない駆け引きを楽しめます。 ぜひ試してみてください。
-一点注意なのが、このルールだと国士無双の効率がものすごく高くなってしまうことです。 国士無双は無しにするか、満貫くらいにしておくのがよいです。</description></item><item><title>麻雀のルール: 役の一覧</title><link>https://mj.maku.blog/p/utvhaks/</link><pubDate>Sat, 20 Oct 2018 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/utvhaks/</guid><description>基本役 役名 よみ 翻 喰い 必要枚数 門前自摸 めんぜんつも 1 × - 立直 りーち 1 × - 一発 いっぱつ 1 x - 断么 たんやお 1 o - 平和 ぴんふ 1 x - 一盃口 いーぺーこー 1 x 6 役牌 やくはい 1 o 3 槍槓 ちゃんかん 1 o - 嶺上開花 りんしゃん 1 o - 海底撈月 はいてい 1 o - 河底撈魚 ほーてい 1 o - ダブルリーチ だぶりー 2 x - 七対子（25符） ちーとい 2 x - 対々和 といとい 2 o - 三暗刻 さんあんこう 2 x 9 三色同順 さんしょく 2 1 9 三色同刻 さんしょくどうこう 2 o 9 三槓子 さんかんつ 2 o 9 一気通貫 いっつー 2 1 9 混全帯么九 ちゃんた 2 1 - 混老頭 ほんろー 2 o - 混一色 ほんいつ 3 2 - 純全帯么九 じゅんちゃん 3 2 - 二盃口 りゃんぺー 3 x 12 小三元 しょーさん 4 o 8 流し満貫 ながしまんがん 5 x - 清一色 ちんいつ 6 5 - 役満 役名 よみ 喰い 必要枚数 天和 てんほー x - 地和 ちーほー x - 人和 れんほー x - 大三元 だいさんげん o 9 緑一色 りゅーいーそー o - 小四喜 しょうすーしー o 11 大四喜 だいすーしー o 12 字一色 つーいーそー o - 国士無双 こくし x - 四暗刻 すーあんこう x - 四槓子 すーかんつ o - 清老頭 ちんろう o - 九蓮宝燈 ちゅーれん x -</description></item><item><title>麻雀団体のルール比較表</title><link>https://mj.maku.blog/p/triuood/</link><pubDate>Sat, 20 Oct 2018 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/triuood/</guid><description> 団体 or タイトル名 略称 設立 ルール その他 日本プロ麻雀連盟 連盟 1981年 規定 佐々木寿人、荒正義、前原雄大など 日本プロ麻雀協会 協会 2001年 規定 堀慎吾、仲林圭、渋川難波など（SEGA MJ とタイアップ） 最高位戦日本プロ麻雀協会 最高位戦 1976年 規定 近藤誠一、園田賢、村上淳など Mリーグ Mリーグ 2018年 規定 麻雀プロリーグ戦（by CyberAgent 藤田晋） 麻雀最強戦 最強戦 1989年 規定 近代麻雀が主催するタイトル戦 RMU RMU 2007年 規定 多井隆晴、松ヶ瀬隆弥、阿部孝則など 麻将連合 μ: ミュー 1997年 規定 忍田幸夫、小林剛など（井出洋介が1997年4月に設立） 競技全般 持ち点、順位点 連盟: 30000点持ち、30000点返し（同点は均等に分ける） 1人浮き: +12P -1P -3P -8P 2人浮き: +8P +4P -4P -8P 3人浮き: +8P +3P +1P -12P 4人沈み: +8P +4P -4P -8P 協会: 25000点持ち、30000点返し 1位: +3万点 2位: +1万点 3位: -1万点 4位: -3万点 最高位戦: 30000点持ち、30000点返し 1位: +3万点 2位: +1万点 3位: -1万点 4位: -3万点 Mリーグ: 25000点持ち、30000点返し（同点は均等に分ける） 1位: +30P 2位: +10P 3位: -10P 4位: -30P 最強戦: 25000点持ち、30000点返し（同点は起家に近い人優先） 1位: +30P 2位: +10P 3位: -10P 4位: -30P RMU: 30000点持ち、30000点返し（同点は均等に分ける) 1位: +15P 2位: +5P 3位: -5P 4位: -15P 麻将連合: 30000点持ち、30000点返し 1位: +12P 2位: +4P 3位: -4P 4位: -12P 箱割れ終了 連盟: なし 協会: なし 最高位戦: なし Mリーグ: なし 最強戦: なし RMU: なし 麻将連合: なし 30符4翻 連盟: 子7700点（2000/3900）、親11600点（3900オール） 協会: 満貫 最高位戦: 満貫 Mリーグ: 満貫 最強戦: 満貫 RMU: 満貫 麻将連合: 子7700点（2000/3900）、親11600点（3900オール） 連風牌の雀頭 連盟: 4符 協会: 2符 最高位戦: 2符 Mリーグ: 2符 最強戦: 2符 RMU: 2符 麻将連合: 2符 基本 喰い替え 連盟: 同一牌のみ不可 協会: できない 最高位戦: できない Mリーグ: （不明） 最強戦: できない RMU: できない 麻将連合: できる ダブロン 連盟: なし（頭ハネ） 協会: なし（頭ハネ） 最高位戦: なし（頭ハネ） Mリーグ: なし（頭ハネ） 最強戦: なし（頭ハネ） RMU: なし（頭ハネ） 麻将連合: なし（頭ハネ） 三家和 連盟: 流局 協会: 頭ハネ 最高位戦: 頭ハネ Mリーグ: 頭ハネ 最強戦: 頭ハネ RMU: 頭ハネ 麻将連合: 頭ハネ 一発 連盟: なし（Bルールには有り） 協会: あり 最高位戦: あり Mリーグ: あり 最強戦: あり RMU: あり 麻将連合: なし 裏ドラ 連盟: なし（Bルールには有り） 協会: あり 最高位戦: あり Mリーグ: あり（5萬・5筒・5索の各1枚が赤ドラ） 最強戦: あり RMU: あり 麻将連合: なし 槓ドラ、槓裏 連盟: なし（Bルールには有り） 協会: あり（明カン時もチャンカンされなかった時点で即乗り） 最高位戦: あり（明カン時もチャンカンされなかった時点で即乗り） Mリーグ: あり（明カン時もチャンカンされなかった時点で即乗り） 最強戦: あり（明カン時もチャンカンされなかった時点で即乗り） RMU: あり（明カン時もチャンカンされなかった時点で即乗り） 麻将連合: なし 赤ドラ 連盟: なし 協会: なし 最高位戦: なし Mリーグ: あり（各色 1 枚ずつ） 最強戦: なし RMU: なし 麻将連合: なし ツモ番なしのリーチ 連盟: できる 協会: できる 最高位戦: できる Mリーグ: できる 最強戦: できる RMU: できる 麻将連合: ？ 嶺上開花と海底（ハイテイ）ツモの重複 連盟: なし 協会: なし 最高位戦: なし Mリーグ: なし 最強戦: なし RMU: なし 麻将連合: なし 流局（連荘と輪荘） 途中流局 連盟: 九種九牌、四風連打、四家立直、四開槓、三家和 協会: なし（4人リーチは続行。5回目のカンはできない） 最高位戦: なし（4人リーチは続行。5回目のカンはできない） Mリーグ: なし（4人リーチは続行。5回目のカンはできない） 最強戦: なし（4人リーチは続行。5回目のカンはできない） RMU: なし（4人リーチは続行。5回目のカンはできない） 麻将連合: なし（4人リーチは続行。5回目のカンはできない） オーラスのアガリ止め、テンパイ止め 連盟: なし 協会: なし 最高位戦: なし Mリーグ: なし 最強戦: なし RMU: なし 麻将連合: なし 役満・特殊役 流し満貫 連盟: なし 協会: なし 最高位戦: なし Mリーグ: なし 最強戦: なし RMU: なし 麻将連合: なし 人和 連盟: 満貫 協会: なし 最高位戦: なし Mリーグ: なし 最強戦: なし RMU: なし 麻将連合: なし ダブル役満（役満の複合） 連盟: なし 協会: あり（純粋な重複のみ） 最高位戦: なし Mリーグ: あり（純粋な重複のみ） 最強戦: あり（純粋な重複のみ） RMU: あり（純粋な重複のみ）2018 年に変更 麻将連合: なし 緑一色 連盟: 緑發が必要 協会: 緑發は入っていなくてよい 最高位戦: 緑發は入っていなくてよい Mリーグ: 緑發は入っていなくてよい 最強戦: 緑發は入っていなくてよい RMU: （不明） 麻将連合: 緑發は入っていなくてよい 国士無双の暗カンのチャンカン和了り 連盟: 可 協会: 規定なし 最高位戦: 不可 Mリーグ: 不可 最強戦: 不可 RMU: 不可 麻将連合: 不可 九連宝燈 連盟: どの色でも可 協会: どの色でも可 最高位戦: どの色でも可 Mリーグ: どの色でも可 最強戦: どの色でも可 RMU: どの色でも可 麻将連合: どの色でも可 数え役満 連盟: なし（11翻以上は三倍満） 協会: なし（11翻以上は三倍満） 最高位戦: なし（11翻以上は三倍満） Mリーグ: なし（11翻以上は三倍満） 最強戦: なし（11翻以上は三倍満） RMU: なし（11翻以上は三倍満） 麻将連合: なし（11翻以上は三倍満） パオ・責任払い 役満のパオ（大三元、大四喜、四槓子） 連盟: あり（ツモは責任払い、ロンは折半払い。積み場は放銃者の負担、但しダブル役満の時は積み場はツモアガリは全員から、ロンアガリは責任払い） 協会: なし 最高位戦: なし Mリーグ: あり（ツモは責任払い、ロンは折半払い） 最強戦: あり（ツモは責任払い、ロンは折半払い） RMU: なし 麻将連合: 大三元と大四喜のみ（ツモは責任払い、ロンは折半払い） 大明槓の嶺上ツモのパオ 連盟: あり（責任払い） 協会: なし（ツモ和了り） 最高位戦: なし（ツモ和了り） Mリーグ: なし（ツモ和了り） 最強戦: なし（ツモ和了り） RMU: なし（ツモ和了り） 麻将連合: なし（ツモ和了り） アガリ放棄／罰符／チョンボ チョンボの罰則 連盟: -20P（終了後に成績から 20 ポイント減点） 協会: -40P（自己トータルポイントから 40 ポイントを減算） 最高位戦: -40P（自己トータルポイントから 40 ポイントを減算） Mリーグ: -20P（自己のトータルポイントから 20 ポイント減点） 最強戦: 12,000 点を供託（ただし誰にも加算しない＝トップ総取り） RMU: -20P（半荘終了時、順位確定後に減算） 麻将連合: -20P（自己のトータルポイントから 20 ポイント減点。ただし、ルールによってはその場で 20000 点を卓外に出す） 空チー・空ポン・空カン 連盟: チョンボ（発生のみはアガリ放棄） 協会: アガリ放棄 最高位戦: アガリ放棄 Mリーグ: アガリ放棄 最強戦: 発声後に取り消した場合は 1,000 点の供託。 RMU: アガリ放棄（発声のみでもアガリ放棄） 麻将連合: アガリ放棄 誤ツモ・誤ロン 連盟: チョンボ（発声のみでもチョンボ、紛らわしいモーションなども立会人の裁定によってチョンボとなる） 協会: 発声のみはアガリ放棄 最高位戦: 発声のみはアガリ放棄（発生の前に手牌を倒した場合もアガリ放棄） Mリーグ: 発声のみはアガリ放棄 最強戦: 発声のみはアガリ放棄 RMU: 発声のみはアガリ放棄 麻将連合: 発声のみはアガリ放棄 喰い替え 連盟: 同一牌以外の喰い替えは認められている（その他の喰い替えをした場合の規定なし） 協会: アガリ放棄 最高位戦: 規定なし（ただし、発声した時点で大体はアガリ放棄になる） Mリーグ: アガリ放棄 最強戦: 規定なし RMU: アガリ放棄 麻将連合: 喰い替えは認められている ノーテンリーチ 連盟: 流局時チョンボ 協会: 流局時チョンボ 最高位戦: 流局時チョンボ Mリーグ: 流局時チョンボ 最強戦: 流局時チョンボ RMU: 流局時チョンボ 麻将連合: 流局時チョンボ 少牌、多牌 連盟: チョンボ 協会: アガリ放棄 最高位戦: アガリ放棄 Mリーグ: アガリ放棄 最強戦: アガリ放棄 RMU: アガリ放棄 麻将連合: アガリ放棄 見せ牌 連盟: 規定なし 協会: 規定なし 最高位戦: 規定なし Mリーグ: 2 枚以上見せたらイエローカード（1 日 2 回でレッドカード＝罰則の-20P） 最強戦: 競技委員の判断による RMU: 立会人による裁定 麻将連合: 既定なし その他 麻将連合: リーチ後の暗カンはできない（暗カンした場合はアガリ放棄） リーチ宣言牌を出す前なら、リーチ宣言を取り消すことができる（ただしアガリ放棄） ツモる場所を間違えた場合はアガリ放棄</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ルール on まくまく麻雀ノート</title><link>https://mj.maku.blog/tags/%E3%83%AB%E3%83%BC%E3%83%AB/</link><description>Recent content in ルール on まくまく麻雀ノート</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0900</lastBuildDate><atom:link href="https://mj.maku.blog/tags/%E3%83%AB%E3%83%BC%E3%83%AB/index.xml" rel="self" type="application/rss+xml"/><item><title>麻雀のルール: サンマ</title><link>https://mj.maku.blog/p/xz9p9dv/</link><pubDate>Fri, 31 Jul 2026 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/xz9p9dv/</guid><description>&lt;p>普段は四人打ちが中心ですが、最近サンマをする機会があったのでそのときのルールをまとめておきます。
+サンマはルールのバリエーションが多いですが、マンズの2〜8を使わないというのはほぼ共通しているようです。
+下記はあくまで個人的に採用しているルールです。&lt;/p>
+&lt;h2 id="サンマルール">サンマルール&lt;/h2>
+&lt;ul>
+&lt;li>形式: 東南戦、テンパイ連荘、積み棒:場に1000点、ノーテン罰符:場に3000点&lt;/li>
+&lt;li>持ち点: 4万点持ち4万点返し&lt;/li>
+&lt;li>順位点: 1位+10、2位±0、3位-10&lt;/li>
+&lt;li>赤ドラ: 赤5ソー、赤5ピン各1枚&lt;/li>
+&lt;li>ハコ点終了有り。0点は続行。飛ばした人へ10P&lt;/li>
+&lt;li>王牌は 9 トン残し。ドラ表示牌は 5 トン目をめくる（抜きドラの嶺上牌を確保するため）&lt;/li>
+&lt;li>アリ: 九種九牌、四開槓流れ、ダブロン、流し満貫、七対子の4枚使い&lt;/li>
+&lt;li>ナシ: 三家和、四風連打（これらは3人しかいないので存在しない）&lt;/li>
+&lt;li>子のツモ和了りは、北家分を2人で折半（50点の端数は切り上げ）
+&lt;ul>
+&lt;li>例: 1000/2000 → 1000+500/2000+500&lt;/li>
+&lt;li>例: 1300/2600 → 1300+700/2600+700&lt;/li>
+&lt;li>例: 2000/4000 → 2000+1000/4000+1000&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>北の扱い
+&lt;ul>
+&lt;li>抜きドラとしても、常時役牌としても使用可&lt;/li>
+&lt;li>抜きドラ時のチャンカン和了り有り&lt;/li>
+&lt;li>抜きドラが成立した（チャンカンされなかった）時点で、一発や九種九牌、人和などの権利は消滅（加槓と同じ扱い）&lt;/li>
+&lt;li>役牌として使用した場合は一翻にしかならない&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>上記を 1 ページの HTML/PDF に変換したもの → &lt;a href="../../p/xz9p9dv/sanma.html">sanma.html&lt;/a> / &lt;a href="../../p/xz9p9dv/sanma.pdf">sanma.pdf&lt;/a>&lt;/p>
+&lt;h2 id="サンマのコツ">サンマのコツ&lt;/h2>
+&lt;p>サンマはマンズの2〜8を使わないため、四人麻雀とは少し異なる戦略が必要になります。
+基本的なところだけメモしておきます。&lt;/p>
+&lt;ul>
+&lt;li>縦のつながりを重視する。&lt;/li>
+&lt;li>チーができないのでリャンカン形は意外と弱い。&lt;/li>
+&lt;li>混一に決め打ちするなら、マンズよりも後々危険になりそうなもう一方の色を先に切る。&lt;/li>
+&lt;li>ピンズ → マンズ → 字牌 → ソーズの順で切られたら、ソーズの一色を超警戒（ヒントはマンズの位置）。&lt;/li>
+&lt;li>九種九牌あったら国士を狙うとよい。&lt;/li>
+&lt;li>鳴いて2000点程度の手は滅多に狙わない。鳴き仕掛けは大物手のときに限り、基本はリーチ狙いがよい。&lt;/li>
+&lt;li>ワンチャンス、ノーチャンスを過信しない。&lt;/li>
+&lt;/ul></description></item><item><title>特殊麻雀ルール: 少牌マイティ（三麻）</title><link>https://mj.maku.blog/p/xgpx6dm/</link><pubDate>Fri, 06 May 2022 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/xgpx6dm/</guid><description>&lt;p>&lt;strong>少牌マイティ&lt;/strong> は、手牌を常に少牌にした状態（12枚）で進める特殊な三麻ルールです。
+足りない一枚は、オールマイティ扱いになるため、テンパイすると多くの牌が和了り牌になります。
+小牌マイティという名前は、「小牌 + オールマイティ」というところから来ています。&lt;/p></description></item><item><title>特殊麻雀ルール: 多面待ち当てクイズ（2人麻雀）</title><link>https://mj.maku.blog/p/k9o2fr5/</link><pubDate>Fri, 24 Jul 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/k9o2fr5/</guid><description>&lt;p>2人で一色手の麻雀の待ちクイズを出し合い、先に答えた方が勝ちというゲームです。
+チンイツのトレーニングになります。&lt;/p>
+&lt;h2 id="準備">準備&lt;/h2>
+&lt;ol>
+&lt;li>一方にソーズ牌をすべて、もう一方にピンズ牌をすべて配る（問題作成用）&lt;/li>
+&lt;li>マンズの1〜9を1枚ずつ配る（答えの提示用）&lt;/li>
+&lt;/ol>
+&lt;h2 id="ルール">ルール&lt;/h2>
+&lt;ol>
+&lt;li>10枚 or 13枚の待ち当てどちらを行うかを決める&lt;/li>
+&lt;li>決めた枚数（10枚 or 13枚）でそれぞれ多面待ちの問題を作る&lt;/li>
+&lt;li>その牌を伏せた状態で相手に渡す&lt;/li>
+&lt;li>「ヨーイドン！」で表向きにし、待ち牌が分かったらマンズ牌でその牌を選び、「できた！」と言って前に出す&lt;/li>
+&lt;/ol>
+&lt;p>先に待ち牌を答えられた方が 1000 点を獲得します。
+間違えた場合は相手が 1000 点獲得します。
+先に 5000 点獲得した方が勝ちです。&lt;/p></description></item><item><title>特殊麻雀ルール: 10枚ミニ麻雀（2人麻雀）</title><link>https://mj.maku.blog/p/g4ivamz/</link><pubDate>Wed, 24 Jun 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/g4ivamz/</guid><description>&lt;p>2人で行うコンパクトな手積み麻雀ルールです。&lt;/p>
+&lt;p>使用する牌を次のように少なくします（合計78枚）。&lt;/p>
+&lt;ul>
+&lt;li>マンズ: 1〜7 を3枚ずつ&lt;/li>
+&lt;li>ソーズ: 1〜7 を3枚ずつ&lt;/li>
+&lt;li>ピンズ: 1〜7 を3枚ずつ&lt;/li>
+&lt;li>字牌: 東/南/白/發/中 を3枚ずつ&lt;/li>
+&lt;/ul>
+&lt;p>あとは、普通に山を積んでゲーム開始です。
+牌の枚数が少ないので、次のような特徴があります。&lt;/p>
+&lt;ul>
+&lt;li>カンはできないので、嶺上牌は必要ない（ドラは一番端の牌をめくればよい）&lt;/li>
+&lt;li>8と9は使わないので、チャンタの上のシュンツは 789 ではなく 567 とする&lt;/li>
+&lt;li>四暗刻の代わりに三暗刻を役満とする&lt;/li>
+&lt;li>国士無双はなし（簡単なので）&lt;/li>
+&lt;/ul>
+&lt;p>下記は和了りの例です。&lt;/p>
+&lt;ul>
+&lt;li>&lt;span class="xMj">2m3m4m2s3s4s2p3p4p6p6p&lt;/span>
+ &amp;hellip; タンピン三色&lt;/li>
+&lt;li>&lt;span class="xMj">1m2m3m5s6s7s7p7p5z5z5z&lt;/span>
+ &amp;hellip; チャンタ、白&lt;/li>
+&lt;li>&lt;span class="xMj">1z1z1z2z2z2z5z5z5z7z7z&lt;/span>
+ &amp;hellip; 字一色&lt;/li>
+&lt;li>&lt;span class="xMj">1m1m1m7s7s7s5z5z5z6z6z&lt;/span>
+ &amp;hellip; ホンロー、トイトイ&lt;/li>
+&lt;li>&lt;span class="xMj">2s2s3s3s4s4s6s6s6z6z6z&lt;/span>
+ &amp;hellip; 緑一色&lt;/li>
+&lt;li>&lt;span class="xMj">1p1p1p2p3p4p5p6p7p7p7p&lt;/span>
+ &amp;hellip; ミニ九蓮（役満）&lt;/li>
+&lt;li>&lt;span class="xMj">2m2m2m5m5m5m7s7s7s5z5z&lt;/span>
+ &amp;hellip; 三暗刻（役満）&lt;/li>
+&lt;li>&lt;span class="xMj">1m7m1p7p1s7s1z2z5z6z7z&lt;/span>
+ &amp;hellip; ミニ国士（簡単すぎるので無し）&lt;/li>
+&lt;/ul></description></item><item><title>特殊麻雀ルール: 高速2人麻雀（山を積まない2人麻雀）</title><link>https://mj.maku.blog/rules/tokushu/tsumanai-futari/</link><pubDate>Wed, 27 Nov 2019 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/rules/tokushu/tsumanai-futari/</guid><description>&lt;p>麻雀好きな友人と、部屋でまったりしているときに考えた2人麻雀ルールです（2人じゃなくてもできるかもしれません）。
+やったことある人にはわかると思いますが、2人で手積み麻雀をやると、&lt;strong>山を積むのが非常に面倒&lt;/strong>です。
+そこで、その手間を省けるようにした超ズボラルールを考えたわけですが、これがやってみるとなかなか面白いので紹介しておきます。&lt;/p>
+&lt;h2 id="洗牌と配牌">洗牌と配牌&lt;/h2>
+&lt;p>まずは、配牌の作り方です。&lt;/p>
+&lt;ol>
+&lt;li>洗牌する（このとき半分くらい牌が表向きになっても構わない）&lt;/li>
+&lt;li>裏向きになった牌を13枚集めて相手に渡す（それが配牌になる）&lt;/li>
+&lt;/ol>
+&lt;p>ただ適当に混ぜて、裏向きになった牌を集めて配牌を作るだけです。
+&lt;strong>山を積まなくてよい&lt;/strong>ので、本当にすぐに配牌が作れます。
+&lt;strong>洗牌後に牌を裏返さなくてよい&lt;/strong>というのもスピードアップに一役買っています（後述のルールため、むしろ表向きの牌が残っていないといけません）。
+自分の配牌ではなく、相手の配牌を作るのは、拾いによるズルをなくすための配慮です。&lt;/p>
+&lt;h2 id="手作りから和了りまで">手作りから和了りまで&lt;/h2>
+&lt;p>この時点で、2人の配牌ができあがり、卓上には表向きの牌と裏向きの牌がたくさん残っている状態になります。
+ここからツモと打牌を繰り返していくのですが、次のような特殊ルールで進めていきます。&lt;/p>
+&lt;ul>
+&lt;li>ツモは表向きと裏向きの牌どちらを持ってきてもよい&lt;/li>
+&lt;li>ロン和了りは普通にできるが、ツモ和了りは裏向きの牌でしかできない&lt;/li>
+&lt;/ul>
+&lt;p>お分かりでしょうか？
+表向きの牌から欲しい牌を自由にツモってくることはできますが、それだけ相手に手牌を読まれやすくなります。
+リーチも普通にできますが、リーチ後は裏向きの牌しかツモってこれません（裏向きの牌でしかツモ和了りはできないので）。&lt;/p>
+&lt;p>相手の手牌がある程度見えているという点では、『アカギ』に出てくる鷲巣麻雀に似てますね。
+字牌なんかを集めだすと、かなり警戒されることになります。
+相手が欲しそうな牌を先にツモっちゃうとか、普通の麻雀にはない駆け引きを楽しめます。
+ぜひ試してみてください。&lt;/p>
+&lt;p>一点注意なのが、このルールだと国士無双の効率がものすごく高くなってしまうことです。
+国士無双は無しにするか、満貫くらいにしておくのがよいです。&lt;/p></description></item><item><title>麻雀のルール: 役の一覧</title><link>https://mj.maku.blog/p/utvhaks/</link><pubDate>Sat, 20 Oct 2018 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/utvhaks/</guid><description>&lt;h2 id="基本役">基本役&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>役名&lt;/th>
+ &lt;th>よみ&lt;/th>
+ &lt;th style="text-align: center">翻&lt;/th>
+ &lt;th style="text-align: center">喰い&lt;/th>
+ &lt;th style="text-align: center">必要枚数&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>門前自摸&lt;/td>
+ &lt;td>めんぜんつも&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">×&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>立直&lt;/td>
+ &lt;td>りーち&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">×&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>一発&lt;/td>
+ &lt;td>いっぱつ&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>断么&lt;/td>
+ &lt;td>たんやお&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>平和&lt;/td>
+ &lt;td>ぴんふ&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>一盃口&lt;/td>
+ &lt;td>いーぺーこー&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">6&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>役牌&lt;/td>
+ &lt;td>やくはい&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>槍槓&lt;/td>
+ &lt;td>ちゃんかん&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>嶺上開花&lt;/td>
+ &lt;td>りんしゃん&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>海底撈月&lt;/td>
+ &lt;td>はいてい&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>河底撈魚&lt;/td>
+ &lt;td>ほーてい&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ダブルリーチ&lt;/td>
+ &lt;td>だぶりー&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>七対子（25符）&lt;/td>
+ &lt;td>ちーとい&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>対々和&lt;/td>
+ &lt;td>といとい&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>三暗刻&lt;/td>
+ &lt;td>さんあんこう&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">9&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>三色同順&lt;/td>
+ &lt;td>さんしょく&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">9&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>三色同刻&lt;/td>
+ &lt;td>さんしょくどうこう&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">9&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>三槓子&lt;/td>
+ &lt;td>さんかんつ&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">9&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>一気通貫&lt;/td>
+ &lt;td>いっつー&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">9&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>混全帯么九&lt;/td>
+ &lt;td>ちゃんた&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">1&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>混老頭&lt;/td>
+ &lt;td>ほんろー&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>混一色&lt;/td>
+ &lt;td>ほんいつ&lt;/td>
+ &lt;td style="text-align: center">3&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>純全帯么九&lt;/td>
+ &lt;td>じゅんちゃん&lt;/td>
+ &lt;td style="text-align: center">3&lt;/td>
+ &lt;td style="text-align: center">2&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>二盃口&lt;/td>
+ &lt;td>りゃんぺー&lt;/td>
+ &lt;td style="text-align: center">3&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">12&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>小三元&lt;/td>
+ &lt;td>しょーさん&lt;/td>
+ &lt;td style="text-align: center">4&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>流し満貫&lt;/td>
+ &lt;td>ながしまんがん&lt;/td>
+ &lt;td style="text-align: center">5&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>清一色&lt;/td>
+ &lt;td>ちんいつ&lt;/td>
+ &lt;td style="text-align: center">6&lt;/td>
+ &lt;td style="text-align: center">5&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="役満">役満&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>役名&lt;/th>
+ &lt;th>よみ&lt;/th>
+ &lt;th style="text-align: center">喰い&lt;/th>
+ &lt;th style="text-align: center">必要枚数&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>天和&lt;/td>
+ &lt;td>てんほー&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>地和&lt;/td>
+ &lt;td>ちーほー&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>人和&lt;/td>
+ &lt;td>れんほー&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>大三元&lt;/td>
+ &lt;td>だいさんげん&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">9&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>緑一色&lt;/td>
+ &lt;td>りゅーいーそー&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>小四喜&lt;/td>
+ &lt;td>しょうすーしー&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">11&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>大四喜&lt;/td>
+ &lt;td>だいすーしー&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">12&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>字一色&lt;/td>
+ &lt;td>つーいーそー&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>国士無双&lt;/td>
+ &lt;td>こくし&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>四暗刻&lt;/td>
+ &lt;td>すーあんこう&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>四槓子&lt;/td>
+ &lt;td>すーかんつ&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>清老頭&lt;/td>
+ &lt;td>ちんろう&lt;/td>
+ &lt;td style="text-align: center">o&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>九蓮宝燈&lt;/td>
+ &lt;td>ちゅーれん&lt;/td>
+ &lt;td style="text-align: center">x&lt;/td>
+ &lt;td style="text-align: center">-&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>麻雀団体のルール比較表</title><link>https://mj.maku.blog/p/triuood/</link><pubDate>Sat, 20 Oct 2018 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/triuood/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>団体 or タイトル名&lt;/th>
+ &lt;th>略称&lt;/th>
+ &lt;th>設立&lt;/th>
+ &lt;th>ルール&lt;/th>
+ &lt;th>その他&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.ma-jan.or.jp/">日本プロ麻雀連盟&lt;/a>&lt;/td>
+ &lt;td>連盟&lt;/td>
+ &lt;td>1981年&lt;/td>
+ &lt;td>&lt;a href="https://www.ma-jan.or.jp/guide/game_rule.html">規定&lt;/a>&lt;/td>
+ &lt;td>佐々木寿人、荒正義、前原雄大など&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://npm2001.com/">日本プロ麻雀協会&lt;/a>&lt;/td>
+ &lt;td>協会&lt;/td>
+ &lt;td>2001年&lt;/td>
+ &lt;td>&lt;a href="https://npm2001.com/about/rule/">規定&lt;/a>&lt;/td>
+ &lt;td>堀慎吾、仲林圭、渋川難波など（SEGA MJ とタイアップ）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://saikouisen.com/">最高位戦日本プロ麻雀協会&lt;/a>&lt;/td>
+ &lt;td>最高位戦&lt;/td>
+ &lt;td>1976年&lt;/td>
+ &lt;td>&lt;a href="https://saikouisen.com/about/rules/">規定&lt;/a>&lt;/td>
+ &lt;td>近藤誠一、園田賢、村上淳など&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://m-league.jp/">Mリーグ&lt;/a>&lt;/td>
+ &lt;td>Mリーグ&lt;/td>
+ &lt;td>2018年&lt;/td>
+ &lt;td>&lt;a href="https://m-league.jp/about/">規定&lt;/a>&lt;/td>
+ &lt;td>麻雀プロリーグ戦（by CyberAgent 藤田晋）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.mahjong-saikyosen.com/">麻雀最強戦&lt;/a>&lt;/td>
+ &lt;td>最強戦&lt;/td>
+ &lt;td>1989年&lt;/td>
+ &lt;td>&lt;a href="https://mahjong-saikyosen.com/?page_id=365">規定&lt;/a>&lt;/td>
+ &lt;td>近代麻雀が主催するタイトル戦&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://rmu.jp/">RMU&lt;/a>&lt;/td>
+ &lt;td>RMU&lt;/td>
+ &lt;td>2007年&lt;/td>
+ &lt;td>&lt;a href="https://rmu.jp/rule">規定&lt;/a>&lt;/td>
+ &lt;td>多井隆晴、松ヶ瀬隆弥、阿部孝則など&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://mu-mahjong.jp/">麻将連合&lt;/a>&lt;/td>
+ &lt;td>μ: ミュー&lt;/td>
+ &lt;td>1997年&lt;/td>
+ &lt;td>&lt;a href="https://mu-mahjong.jp/tournament/%e7%ab%b6%e6%8a%80%e8%a6%8f%e5%ae%9a/">規定&lt;/a>&lt;/td>
+ &lt;td>忍田幸夫、小林剛など（井出洋介が1997年4月に設立）&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="競技全般">競技全般&lt;/h2>
+&lt;h3 id="持ち点順位点">持ち点、順位点&lt;/h3>
+&lt;ul>
+&lt;li>連盟: 30000点持ち、30000点返し（同点は均等に分ける）
+&lt;ul>
+&lt;li>1人浮き: +12P -1P -3P -8P&lt;/li>
+&lt;li>2人浮き: +8P +4P -4P -8P&lt;/li>
+&lt;li>3人浮き: +8P +3P +1P -12P&lt;/li>
+&lt;li>4人沈み: +8P +4P -4P -8P&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>協会: 25000点持ち、30000点返し
+&lt;ul>
+&lt;li>1位: +3万点&lt;/li>
+&lt;li>2位: +1万点&lt;/li>
+&lt;li>3位: -1万点&lt;/li>
+&lt;li>4位: -3万点&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>最高位戦: 30000点持ち、30000点返し
+&lt;ul>
+&lt;li>1位: +3万点&lt;/li>
+&lt;li>2位: +1万点&lt;/li>
+&lt;li>3位: -1万点&lt;/li>
+&lt;li>4位: -3万点&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Mリーグ: 25000点持ち、30000点返し（同点は均等に分ける）
+&lt;ul>
+&lt;li>1位: +30P&lt;/li>
+&lt;li>2位: +10P&lt;/li>
+&lt;li>3位: -10P&lt;/li>
+&lt;li>4位: -30P&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>最強戦: 25000点持ち、30000点返し（同点は起家に近い人優先）
+&lt;ul>
+&lt;li>1位: +30P&lt;/li>
+&lt;li>2位: +10P&lt;/li>
+&lt;li>3位: -10P&lt;/li>
+&lt;li>4位: -30P&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>RMU: 30000点持ち、30000点返し（同点は均等に分ける)
+&lt;ul>
+&lt;li>1位: +15P&lt;/li>
+&lt;li>2位: +5P&lt;/li>
+&lt;li>3位: -5P&lt;/li>
+&lt;li>4位: -15P&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>麻将連合: 30000点持ち、30000点返し
+&lt;ul>
+&lt;li>1位: +12P&lt;/li>
+&lt;li>2位: +4P&lt;/li>
+&lt;li>3位: -4P&lt;/li>
+&lt;li>4位: -12P&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="箱割れ終了">箱割れ終了&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし&lt;/li>
+&lt;li>協会: なし&lt;/li>
+&lt;li>最高位戦: なし&lt;/li>
+&lt;li>Mリーグ: なし&lt;/li>
+&lt;li>最強戦: なし&lt;/li>
+&lt;li>RMU: なし&lt;/li>
+&lt;li>麻将連合: なし&lt;/li>
+&lt;/ul>
+&lt;h3 id="30符4翻">30符4翻&lt;/h3>
+&lt;ul>
+&lt;li>連盟: 子7700点（2000/3900）、親11600点（3900オール）&lt;/li>
+&lt;li>協会: 満貫&lt;/li>
+&lt;li>最高位戦: 満貫&lt;/li>
+&lt;li>Mリーグ: 満貫&lt;/li>
+&lt;li>最強戦: 満貫&lt;/li>
+&lt;li>RMU: 満貫&lt;/li>
+&lt;li>麻将連合: 子7700点（2000/3900）、親11600点（3900オール）&lt;/li>
+&lt;/ul>
+&lt;h3 id="連風牌の雀頭">連風牌の雀頭&lt;/h3>
+&lt;ul>
+&lt;li>連盟: 4符&lt;/li>
+&lt;li>協会: 2符&lt;/li>
+&lt;li>最高位戦: 2符&lt;/li>
+&lt;li>Mリーグ: 2符&lt;/li>
+&lt;li>最強戦: 2符&lt;/li>
+&lt;li>RMU: 2符&lt;/li>
+&lt;li>麻将連合: 2符&lt;/li>
+&lt;/ul>
+&lt;h2 id="基本">基本&lt;/h2>
+&lt;h3 id="喰い替え">喰い替え&lt;/h3>
+&lt;ul>
+&lt;li>連盟: 同一牌のみ不可&lt;/li>
+&lt;li>協会: できない&lt;/li>
+&lt;li>最高位戦: できない&lt;/li>
+&lt;li>Mリーグ: （不明）&lt;/li>
+&lt;li>最強戦: できない&lt;/li>
+&lt;li>RMU: できない&lt;/li>
+&lt;li>麻将連合: できる&lt;/li>
+&lt;/ul>
+&lt;h3 id="ダブロン">ダブロン&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし（頭ハネ）&lt;/li>
+&lt;li>協会: なし（頭ハネ）&lt;/li>
+&lt;li>最高位戦: なし（頭ハネ）&lt;/li>
+&lt;li>Mリーグ: なし（頭ハネ）&lt;/li>
+&lt;li>最強戦: なし（頭ハネ）&lt;/li>
+&lt;li>RMU: なし（頭ハネ）&lt;/li>
+&lt;li>麻将連合: なし（頭ハネ）&lt;/li>
+&lt;/ul>
+&lt;h3 id="三家和">三家和&lt;/h3>
+&lt;ul>
+&lt;li>連盟: 流局&lt;/li>
+&lt;li>協会: 頭ハネ&lt;/li>
+&lt;li>最高位戦: 頭ハネ&lt;/li>
+&lt;li>Mリーグ: 頭ハネ&lt;/li>
+&lt;li>最強戦: 頭ハネ&lt;/li>
+&lt;li>RMU: 頭ハネ&lt;/li>
+&lt;li>麻将連合: 頭ハネ&lt;/li>
+&lt;/ul>
+&lt;h3 id="一発">一発&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし（Bルールには有り）&lt;/li>
+&lt;li>協会: あり&lt;/li>
+&lt;li>最高位戦: あり&lt;/li>
+&lt;li>Mリーグ: あり&lt;/li>
+&lt;li>最強戦: あり&lt;/li>
+&lt;li>RMU: あり&lt;/li>
+&lt;li>麻将連合: なし&lt;/li>
+&lt;/ul>
+&lt;h3 id="裏ドラ">裏ドラ&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし（Bルールには有り）&lt;/li>
+&lt;li>協会: あり&lt;/li>
+&lt;li>最高位戦: あり&lt;/li>
+&lt;li>Mリーグ: あり（5萬・5筒・5索の各1枚が赤ドラ）&lt;/li>
+&lt;li>最強戦: あり&lt;/li>
+&lt;li>RMU: あり&lt;/li>
+&lt;li>麻将連合: なし&lt;/li>
+&lt;/ul>
+&lt;h3 id="槓ドラ槓裏">槓ドラ、槓裏&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし（Bルールには有り）&lt;/li>
+&lt;li>協会: あり（明カン時もチャンカンされなかった時点で即乗り）&lt;/li>
+&lt;li>最高位戦: あり（明カン時もチャンカンされなかった時点で即乗り）&lt;/li>
+&lt;li>Mリーグ: あり（明カン時もチャンカンされなかった時点で即乗り）&lt;/li>
+&lt;li>最強戦: あり（明カン時もチャンカンされなかった時点で即乗り）&lt;/li>
+&lt;li>RMU: あり（明カン時もチャンカンされなかった時点で即乗り）&lt;/li>
+&lt;li>麻将連合: なし&lt;/li>
+&lt;/ul>
+&lt;h3 id="赤ドラ">赤ドラ&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし&lt;/li>
+&lt;li>協会: なし&lt;/li>
+&lt;li>最高位戦: なし&lt;/li>
+&lt;li>Mリーグ: あり（各色 1 枚ずつ）&lt;/li>
+&lt;li>最強戦: なし&lt;/li>
+&lt;li>RMU: なし&lt;/li>
+&lt;li>麻将連合: なし&lt;/li>
+&lt;/ul>
+&lt;h3 id="ツモ番なしのリーチ">ツモ番なしのリーチ&lt;/h3>
+&lt;ul>
+&lt;li>連盟: できる&lt;/li>
+&lt;li>協会: できる&lt;/li>
+&lt;li>最高位戦: できる&lt;/li>
+&lt;li>Mリーグ: できる&lt;/li>
+&lt;li>最強戦: できる&lt;/li>
+&lt;li>RMU: できる&lt;/li>
+&lt;li>麻将連合: ？&lt;/li>
+&lt;/ul>
+&lt;h3 id="嶺上開花と海底ハイテイツモの重複">嶺上開花と海底（ハイテイ）ツモの重複&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし&lt;/li>
+&lt;li>協会: なし&lt;/li>
+&lt;li>最高位戦: なし&lt;/li>
+&lt;li>Mリーグ: なし&lt;/li>
+&lt;li>最強戦: なし&lt;/li>
+&lt;li>RMU: なし&lt;/li>
+&lt;li>麻将連合: なし&lt;/li>
+&lt;/ul>
+&lt;h2 id="流局連荘と輪荘">流局（連荘と輪荘）&lt;/h2>
+&lt;h3 id="途中流局">途中流局&lt;/h3>
+&lt;ul>
+&lt;li>連盟: 九種九牌、四風連打、四家立直、四開槓、三家和&lt;/li>
+&lt;li>協会: なし（4人リーチは続行。5回目のカンはできない）&lt;/li>
+&lt;li>最高位戦: なし（4人リーチは続行。5回目のカンはできない）&lt;/li>
+&lt;li>Mリーグ: なし（4人リーチは続行。5回目のカンはできない）&lt;/li>
+&lt;li>最強戦: なし（4人リーチは続行。5回目のカンはできない）&lt;/li>
+&lt;li>RMU: なし（4人リーチは続行。5回目のカンはできない）&lt;/li>
+&lt;li>麻将連合: なし（4人リーチは続行。5回目のカンはできない）&lt;/li>
+&lt;/ul>
+&lt;h3 id="オーラスのアガリ止めテンパイ止め">オーラスのアガリ止め、テンパイ止め&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし&lt;/li>
+&lt;li>協会: なし&lt;/li>
+&lt;li>最高位戦: なし&lt;/li>
+&lt;li>Mリーグ: なし&lt;/li>
+&lt;li>最強戦: なし&lt;/li>
+&lt;li>RMU: なし&lt;/li>
+&lt;li>麻将連合: なし&lt;/li>
+&lt;/ul>
+&lt;h2 id="役満特殊役">役満・特殊役&lt;/h2>
+&lt;h3 id="流し満貫">流し満貫&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし&lt;/li>
+&lt;li>協会: なし&lt;/li>
+&lt;li>最高位戦: なし&lt;/li>
+&lt;li>Mリーグ: なし&lt;/li>
+&lt;li>最強戦: なし&lt;/li>
+&lt;li>RMU: なし&lt;/li>
+&lt;li>麻将連合: なし&lt;/li>
+&lt;/ul>
+&lt;h3 id="人和">人和&lt;/h3>
+&lt;ul>
+&lt;li>連盟: 満貫&lt;/li>
+&lt;li>協会: なし&lt;/li>
+&lt;li>最高位戦: なし&lt;/li>
+&lt;li>Mリーグ: なし&lt;/li>
+&lt;li>最強戦: なし&lt;/li>
+&lt;li>RMU: なし&lt;/li>
+&lt;li>麻将連合: なし&lt;/li>
+&lt;/ul>
+&lt;h3 id="ダブル役満役満の複合">ダブル役満（役満の複合）&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし&lt;/li>
+&lt;li>協会: あり（純粋な重複のみ）&lt;/li>
+&lt;li>最高位戦: なし&lt;/li>
+&lt;li>Mリーグ: あり（純粋な重複のみ）&lt;/li>
+&lt;li>最強戦: あり（純粋な重複のみ）&lt;/li>
+&lt;li>RMU: あり（純粋な重複のみ）2018 年に変更&lt;/li>
+&lt;li>麻将連合: なし&lt;/li>
+&lt;/ul>
+&lt;h3 id="緑一色">緑一色&lt;/h3>
+&lt;ul>
+&lt;li>連盟: 緑發が必要&lt;/li>
+&lt;li>協会: 緑發は入っていなくてよい&lt;/li>
+&lt;li>最高位戦: 緑發は入っていなくてよい&lt;/li>
+&lt;li>Mリーグ: 緑發は入っていなくてよい&lt;/li>
+&lt;li>最強戦: 緑發は入っていなくてよい&lt;/li>
+&lt;li>RMU: （不明）&lt;/li>
+&lt;li>麻将連合: 緑發は入っていなくてよい&lt;/li>
+&lt;/ul>
+&lt;h3 id="国士無双の暗カンのチャンカン和了り">国士無双の暗カンのチャンカン和了り&lt;/h3>
+&lt;ul>
+&lt;li>連盟: 可&lt;/li>
+&lt;li>協会: 規定なし&lt;/li>
+&lt;li>最高位戦: 不可&lt;/li>
+&lt;li>Mリーグ: 不可&lt;/li>
+&lt;li>最強戦: 不可&lt;/li>
+&lt;li>RMU: 不可&lt;/li>
+&lt;li>麻将連合: 不可&lt;/li>
+&lt;/ul>
+&lt;h3 id="九連宝燈">九連宝燈&lt;/h3>
+&lt;ul>
+&lt;li>連盟: どの色でも可&lt;/li>
+&lt;li>協会: どの色でも可&lt;/li>
+&lt;li>最高位戦: どの色でも可&lt;/li>
+&lt;li>Mリーグ: どの色でも可&lt;/li>
+&lt;li>最強戦: どの色でも可&lt;/li>
+&lt;li>RMU: どの色でも可&lt;/li>
+&lt;li>麻将連合: どの色でも可&lt;/li>
+&lt;/ul>
+&lt;h3 id="数え役満">数え役満&lt;/h3>
+&lt;ul>
+&lt;li>連盟: なし（11翻以上は三倍満）&lt;/li>
+&lt;li>協会: なし（11翻以上は三倍満）&lt;/li>
+&lt;li>最高位戦: なし（11翻以上は三倍満）&lt;/li>
+&lt;li>Mリーグ: なし（11翻以上は三倍満）&lt;/li>
+&lt;li>最強戦: なし（11翻以上は三倍満）&lt;/li>
+&lt;li>RMU: なし（11翻以上は三倍満）&lt;/li>
+&lt;li>麻将連合: なし（11翻以上は三倍満）&lt;/li>
+&lt;/ul>
+&lt;h2 id="パオ責任払い">パオ・責任払い&lt;/h2>
+&lt;h3 id="役満のパオ大三元大四喜四槓子">役満のパオ（大三元、大四喜、四槓子）&lt;/h3>
+&lt;ul>
+&lt;li>連盟: あり（ツモは責任払い、ロンは折半払い。積み場は放銃者の負担、但しダブル役満の時は積み場はツモアガリは全員から、ロンアガリは責任払い）&lt;/li>
+&lt;li>協会: なし&lt;/li>
+&lt;li>最高位戦: なし&lt;/li>
+&lt;li>Mリーグ: あり（ツモは責任払い、ロンは折半払い）&lt;/li>
+&lt;li>最強戦: あり（ツモは責任払い、ロンは折半払い）&lt;/li>
+&lt;li>RMU: なし&lt;/li>
+&lt;li>麻将連合: 大三元と大四喜のみ（ツモは責任払い、ロンは折半払い）&lt;/li>
+&lt;/ul>
+&lt;h3 id="大明槓の嶺上ツモのパオ">大明槓の嶺上ツモのパオ&lt;/h3>
+&lt;ul>
+&lt;li>連盟: あり（責任払い）&lt;/li>
+&lt;li>協会: なし（ツモ和了り）&lt;/li>
+&lt;li>最高位戦: なし（ツモ和了り）&lt;/li>
+&lt;li>Mリーグ: なし（ツモ和了り）&lt;/li>
+&lt;li>最強戦: なし（ツモ和了り）&lt;/li>
+&lt;li>RMU: なし（ツモ和了り）&lt;/li>
+&lt;li>麻将連合: なし（ツモ和了り）&lt;/li>
+&lt;/ul>
+&lt;h2 id="アガリ放棄罰符チョンボ">アガリ放棄／罰符／チョンボ&lt;/h2>
+&lt;ul>
+&lt;li>チョンボの罰則
+&lt;ul>
+&lt;li>連盟: -20P（終了後に成績から 20 ポイント減点）&lt;/li>
+&lt;li>協会: -40P（自己トータルポイントから 40 ポイントを減算）&lt;/li>
+&lt;li>最高位戦: -40P（自己トータルポイントから 40 ポイントを減算）&lt;/li>
+&lt;li>Mリーグ: -20P（自己のトータルポイントから 20 ポイント減点）&lt;/li>
+&lt;li>最強戦: 12,000 点を供託（ただし誰にも加算しない＝トップ総取り）&lt;/li>
+&lt;li>RMU: -20P（半荘終了時、順位確定後に減算）&lt;/li>
+&lt;li>麻将連合: -20P（自己のトータルポイントから 20 ポイント減点。ただし、ルールによってはその場で 20000 点を卓外に出す）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>空チー・空ポン・空カン
+&lt;ul>
+&lt;li>連盟: チョンボ（発生のみはアガリ放棄）&lt;/li>
+&lt;li>協会: アガリ放棄&lt;/li>
+&lt;li>最高位戦: アガリ放棄&lt;/li>
+&lt;li>Mリーグ: アガリ放棄&lt;/li>
+&lt;li>最強戦: 発声後に取り消した場合は 1,000 点の供託。&lt;/li>
+&lt;li>RMU: アガリ放棄（発声のみでもアガリ放棄）&lt;/li>
+&lt;li>麻将連合: アガリ放棄&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>誤ツモ・誤ロン
+&lt;ul>
+&lt;li>連盟: チョンボ（発声のみでもチョンボ、紛らわしいモーションなども立会人の裁定によってチョンボとなる）&lt;/li>
+&lt;li>協会: 発声のみはアガリ放棄&lt;/li>
+&lt;li>最高位戦: 発声のみはアガリ放棄（発生の前に手牌を倒した場合もアガリ放棄）&lt;/li>
+&lt;li>Mリーグ: 発声のみはアガリ放棄&lt;/li>
+&lt;li>最強戦: 発声のみはアガリ放棄&lt;/li>
+&lt;li>RMU: 発声のみはアガリ放棄&lt;/li>
+&lt;li>麻将連合: 発声のみはアガリ放棄&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>喰い替え
+&lt;ul>
+&lt;li>連盟: 同一牌以外の喰い替えは認められている（その他の喰い替えをした場合の規定なし）&lt;/li>
+&lt;li>協会: アガリ放棄&lt;/li>
+&lt;li>最高位戦: 規定なし（ただし、発声した時点で大体はアガリ放棄になる）&lt;/li>
+&lt;li>Mリーグ: アガリ放棄&lt;/li>
+&lt;li>最強戦: 規定なし&lt;/li>
+&lt;li>RMU: アガリ放棄&lt;/li>
+&lt;li>麻将連合: 喰い替えは認められている&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ノーテンリーチ
+&lt;ul>
+&lt;li>連盟: 流局時チョンボ&lt;/li>
+&lt;li>協会: 流局時チョンボ&lt;/li>
+&lt;li>最高位戦: 流局時チョンボ&lt;/li>
+&lt;li>Mリーグ: 流局時チョンボ&lt;/li>
+&lt;li>最強戦: 流局時チョンボ&lt;/li>
+&lt;li>RMU: 流局時チョンボ&lt;/li>
+&lt;li>麻将連合: 流局時チョンボ&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>少牌、多牌
+&lt;ul>
+&lt;li>連盟: チョンボ&lt;/li>
+&lt;li>協会: アガリ放棄&lt;/li>
+&lt;li>最高位戦: アガリ放棄&lt;/li>
+&lt;li>Mリーグ: アガリ放棄&lt;/li>
+&lt;li>最強戦: アガリ放棄&lt;/li>
+&lt;li>RMU: アガリ放棄&lt;/li>
+&lt;li>麻将連合: アガリ放棄&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>見せ牌
+&lt;ul>
+&lt;li>連盟: 規定なし&lt;/li>
+&lt;li>協会: 規定なし&lt;/li>
+&lt;li>最高位戦: 規定なし&lt;/li>
+&lt;li>Mリーグ: 2 枚以上見せたらイエローカード（1 日 2 回でレッドカード＝罰則の-20P）&lt;/li>
+&lt;li>最強戦: 競技委員の判断による&lt;/li>
+&lt;li>RMU: 立会人による裁定&lt;/li>
+&lt;li>麻将連合: 既定なし&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>その他
+&lt;ul>
+&lt;li>麻将連合:
+&lt;ul>
+&lt;li>リーチ後の暗カンはできない（暗カンした場合はアガリ放棄）&lt;/li>
+&lt;li>リーチ宣言牌を出す前なら、リーチ宣言を取り消すことができる（ただしアガリ放棄）&lt;/li>
+&lt;li>ツモる場所を間違えた場合はアガリ放棄&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

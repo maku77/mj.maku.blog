@@ -1,6 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>待ち牌 on まくまく麻雀ノート</title><link>https://mj.maku.blog/tags/%E5%BE%85%E3%81%A1%E7%89%8C/</link><description>Recent content in 待ち牌 on まくまく麻雀ノート</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0900</lastBuildDate><atom:link href="https://mj.maku.blog/tags/%E5%BE%85%E3%81%A1%E7%89%8C/index.xml" rel="self" type="application/rss+xml"/><item><title>人間ドックの日に打ったら</title><link>https://mj.maku.blog/p/3p3eq3e/</link><pubDate>Fri, 24 Jul 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/3p3eq3e/</guid><description>やらかしました。 人間ドックで鎮静剤（麻酔）を打った後の頭のまま打ちにいったら、点数計算は間違うわ、振聴チョンボはするわで散々でした。 普段とほとんど変わらない感覚で打っていたつもりでしたが、頭は働かなくなってたみたいです。 「今日は会議とか入れちゃだめ」と言われた理由がなんとなく分かりました。
-こんな手を 7s ロンしたら、捨て牌に 8s が。。。 途中までトイトイ狙ってたのを忘れてた。。。 （ちなみにこれは 3s4s5s7s8s 待ち）
-逆に鎮静剤を打った後でも普通に勝てるのであれば、かなり集中力が高いってことですね。
-同じような待ちでヘマを犯さないように、連続型の多面待ちを復習しておくことにします。
-基本形 下記は基本パターンなので、待ちは 0.1 秒で分かるようにしておかないといけません。 これより複雑な多面待ちは、大体これの応用系です。 アンコがない形は簡単なので、基本はアンコ含みの形をトレーニングするようにします。
-3s4s4s4s5s5s5s5z5z5z7z7z7z → 2s3s4s5s 待ち 3s3s4s4s5s5s5s5z5z5z7z7z7z → 2s3s4s5s 待ち 3s3s3s4s5s5s5s5z5z5z7z7z7z → 2s3s4s5s6s 待ち 3s3s3s4s5s5s6s5z5z5z7z7z7z → 4s5s7s 待ち 3s3s4s4s4s5s5s5s5z5z7z7z7z → 3s6s5z 待ち 応用形 左右対称 3p3p4p4p4p5p5p5p6p6p5z5z5z → 3p6p 待ち 3p3p3p4p4p5p5p6p6p6p5z5z5z → 3p4p5p6p 待ち 非対称1（アンコ入り） 3p3p3p4p4p4p5p5p6p6p5z5z5z → 2p4p5p6p7p 待ち 3p3p3p4p4p4p5p5p6p7p5z5z5z → 3p4p5p6p8p 待ち 3p3p3p4p4p5p5p5p6p6p5z5z5z → 4p5p6p7p 待ち 3p3p3p4p4p5p5p5p6p7p5z5z5z → 3p4p5p6p8p 待ち 3p3p3p4p5p5p5p6p6p6p5z5z5z → 2p3p4p5p6p 待ち 3p3p4p4p4p5p5p5p6p7p5z5z5z → 3p4p5p7p8p 待ち 3p3p4p4p5p5p5p6p6p6p5z5z5z → 2p3p4p5p7p 待ち 3p4p4p4p5p5p5p6p6p6p5z5z5z → 2p3p4p5p6p 待ち 3p3p3p4p4p5p5p5p6p6p6p5z5z → 4p7p5z 待ち 3p3p4p4p4p5p5p5p6p6p6p5z5z → 3p6p5z 待ち 非対称2（槓子入り） 槓子がある場合は実は簡単で、槓子から「アンコを抜いたパターン」と「雀頭を抜いたパターン」を考えると簡単です。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>待ち牌 on まくまく麻雀ノート</title><link>https://mj.maku.blog/tags/%E5%BE%85%E3%81%A1%E7%89%8C/</link><description>Recent content in 待ち牌 on まくまく麻雀ノート</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0900</lastBuildDate><atom:link href="https://mj.maku.blog/tags/%E5%BE%85%E3%81%A1%E7%89%8C/index.xml" rel="self" type="application/rss+xml"/><item><title>人間ドックの日に打ったら</title><link>https://mj.maku.blog/p/3p3eq3e/</link><pubDate>Fri, 24 Jul 2020 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/3p3eq3e/</guid><description>&lt;p>やらかしました。
+人間ドックで鎮静剤（麻酔）を打った後の頭のまま打ちにいったら、点数計算は間違うわ、振聴チョンボはするわで散々でした。
+普段とほとんど変わらない感覚で打っていたつもりでしたが、頭は働かなくなってたみたいです。
+「今日は会議とか入れちゃだめ」と言われた理由がなんとなく分かりました。&lt;/p>
+
+
+&lt;figure class="xImage">
+ &lt;img style="" width="500" height="375" src="../../p/3p3eq3e/img-001_hu7127333085184009032.jpg" alt="/p/3p3eq3e/img-001.jpg" />
+&lt;/figure>
+
+&lt;p>こんな手を &lt;span class="xMj">7s&lt;/span>
+ ロンしたら、捨て牌に &lt;span class="xMj">8s&lt;/span>
+ が。。。
+途中までトイトイ狙ってたのを忘れてた。。。
+（ちなみにこれは &lt;span class="xMj">3s4s5s7s8s&lt;/span>
+ 待ち）&lt;/p>
+&lt;p>逆に鎮静剤を打った後でも普通に勝てるのであれば、かなり集中力が高いってことですね。&lt;/p>
+&lt;p>同じような待ちでヘマを犯さないように、連続型の多面待ちを復習しておくことにします。&lt;/p>
+&lt;h2 id="基本形">基本形&lt;/h2>
+&lt;p>下記は基本パターンなので、待ちは 0.1 秒で分かるようにしておかないといけません。
+これより複雑な多面待ちは、大体これの応用系です。
+アンコがない形は簡単なので、基本はアンコ含みの形をトレーニングするようにします。&lt;/p>
+&lt;ol>
+&lt;li>&lt;span class="xMj">3s4s4s4s5s5s5s5z5z5z7z7z7z&lt;/span>
+ → &lt;span class="xMj">2s3s4s5s&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3s3s4s4s5s5s5s5z5z5z7z7z7z&lt;/span>
+ → &lt;span class="xMj">2s3s4s5s&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3s3s3s4s5s5s5s5z5z5z7z7z7z&lt;/span>
+ → &lt;span class="xMj">2s3s4s5s6s&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3s3s3s4s5s5s6s5z5z5z7z7z7z&lt;/span>
+ → &lt;span class="xMj">4s5s7s&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3s3s4s4s4s5s5s5s5z5z7z7z7z&lt;/span>
+ → &lt;span class="xMj">3s6s5z&lt;/span>
+ 待ち&lt;/li>
+&lt;/ol>
+&lt;h2 id="応用形">応用形&lt;/h2>
+&lt;h3 id="左右対称">左右対称&lt;/h3>
+&lt;ol>
+&lt;li>&lt;span class="xMj">3p3p4p4p4p5p5p5p6p6p5z5z5z&lt;/span>
+ → &lt;span class="xMj">3p6p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p3p3p4p4p5p5p6p6p6p5z5z5z&lt;/span>
+ → &lt;span class="xMj">3p4p5p6p&lt;/span>
+ 待ち&lt;/li>
+&lt;/ol>
+&lt;h3 id="非対称1アンコ入り">非対称1（アンコ入り）&lt;/h3>
+&lt;ol>
+&lt;li>&lt;span class="xMj">3p3p3p4p4p4p5p5p6p6p5z5z5z&lt;/span>
+ → &lt;span class="xMj">2p4p5p6p7p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p3p3p4p4p4p5p5p6p7p5z5z5z&lt;/span>
+ → &lt;span class="xMj">3p4p5p6p8p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p3p3p4p4p5p5p5p6p6p5z5z5z&lt;/span>
+ → &lt;span class="xMj">4p5p6p7p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p3p3p4p4p5p5p5p6p7p5z5z5z&lt;/span>
+ → &lt;span class="xMj">3p4p5p6p8p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p3p3p4p5p5p5p6p6p6p5z5z5z&lt;/span>
+ → &lt;span class="xMj">2p3p4p5p6p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p3p4p4p4p5p5p5p6p7p5z5z5z&lt;/span>
+ → &lt;span class="xMj">3p4p5p7p8p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p3p4p4p5p5p5p6p6p6p5z5z5z&lt;/span>
+ → &lt;span class="xMj">2p3p4p5p7p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p4p4p4p5p5p5p6p6p6p5z5z5z&lt;/span>
+ → &lt;span class="xMj">2p3p4p5p6p&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p3p3p4p4p5p5p5p6p6p6p5z5z&lt;/span>
+ → &lt;span class="xMj">4p7p5z&lt;/span>
+ 待ち&lt;/li>
+&lt;li>&lt;span class="xMj">3p3p4p4p4p5p5p5p6p6p6p5z5z&lt;/span>
+ → &lt;span class="xMj">3p6p5z&lt;/span>
+ 待ち&lt;/li>
+&lt;/ol>
+&lt;h3 id="非対称2槓子入り">非対称2（槓子入り）&lt;/h3>
+&lt;p>槓子がある場合は実は簡単で、槓子から「アンコを抜いたパターン」と「雀頭を抜いたパターン」を考えると簡単です。&lt;/p></description></item></channel></rss>

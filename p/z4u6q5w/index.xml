@@ -1,20 +1,653 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>待ち牌 on まくまく麻雀ノート</title><link>https://mj.maku.blog/p/z4u6q5w/</link><description>Recent content in 待ち牌 on まくまく麻雀ノート</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://mj.maku.blog/p/z4u6q5w/index.xml" rel="self" type="application/rss+xml"/><item><title>多面待ちパターン (1) 基本形</title><link>https://mj.maku.blog/p/gi89jax/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/gi89jax/</guid><description>簡単なものは萬子、ちょっと難し目のものは筒子（ピンズ）で表示してあります。
-テンパイ系待ち牌待ち牌枚数 4枚 2m2m2m3m 1m4m3m 11枚 1m1m1m2m 2m3m 7枚 1m1m1m3m 2m3m 7枚 5枚 2m3m4m5m6m 1m4m7m 11枚 7枚 3m4m5m6m7m7m7m 2m5m8m3m6m 17枚 5m6m7m8m9m9m9m 4m7m5m8m 13枚 6m6m6m7m8m8m8m 5m6m7m8m9m 13枚 1p2p3p3p3p3p4p 1p4p2p5p 13枚 2p3p3p3p3p4p5p 1p4p2p5p 13枚 2p3p3p3p3p4p4p 1p4p2p5p 13枚 2p2p3p3p3p3p4p 1p4p2p5p 13枚 2p2p2p4p6p6p6p 3p4p5p 11枚 1p2p2p2p2p3p4p 1p4p3p 9枚 1m2m3m4m5m6m7m 1m4m7m 9枚 3m3m4m4m4m5m5m 3m4m5m 5枚 1p1p1p1p2p2p3p 2p3p 5枚 10枚 2m2m2m3m4m5m6m7m7m7m 1m4m7m2m5m8m3m6m 22枚 13枚 1m1m1m2m3m4m5m6m7m8m9m9m9m 1m4m7m2m5m8m3m6m9m 23枚 3p3p3p3p4p5p6p という 6p 単騎の形がありますが、ここからは 2p4p5p7p のいずれを引いても多面待ちへの変化があるため、6p 単騎リーチや、カンは控えた方がよいです。 1p を先に引いた場合には、3p をカンしてリーチが面白いです。</description></item><item><title>多面待ちパターン (2) 複合形</title><link>https://mj.maku.blog/p/2o6r4d3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/2o6r4d3/</guid><description> テンパイ系待ち牌説明 2s3s3s4s4s5s5s6s5z5z5z6z6z 1s4s7s 実は 2s3s4s5s6s と同じ。 2p3p3p4p4p4p4p5z5z5z6z6z6z 2p5p3p 実は 3p4p4p4p と同じ。 5p5p6p6p6p7p7p8p9p9p5z5z5z 4p7p8p 2p2p3p3p3p4p4p4p5p7p5z5z5z 6p7p 2p2p3p3p3p4p4p5p5z5z5z6z6z 1p4p 2p3p3p3p4p4p4p5p5z5z5z6z6z 2p5p 3p4p の両面待ち。どちらでも一盃口になる面白い形。 2p3p4p4p4p5p5p5p6p6p5z5z5z 1p2p4p5p6p 1p1p1p2p2p3p4p5p6p7p4z4z4z 2p5p8p3p 2p2p2p3p3p4p5p6p7p8p4z4z4z 1p4p3p6p9p 3p3p4p4p4p5p5p5p6p7p4z4z4z 3p4p5p7p8p 2p2p2p3p3p4p4p5p5p6p6p7p8p 1p4p7p3p6p9p 1p2p3p3p3p4p4p5p5p5p6p7p8p 2p5p8p3p4p 5p5p6p6p7p7p8p9p9p9p1z1z1z 4p7p5p8p 5p6p7p8p9p9p9p と同じ。 4p5p5p6p6p7p7p8p9p9p9p1z1z 3p6p9p1z 4p5p6p7p8p9p9p9p1z1z と同じ。 3s4s5s6s7s7s7s8s8s8s4z4z4z 2s5s8s3s6s7s 4p4p5p6p6p7p7p7p8p8p5z5z5z 5p6p9p 3p3p3p4p4p4p5p5p6p6p6p7p7p 2p4p5p6p7p8p 1p2p3p5p6p6p6p6p7p8p9p9p9p 4p5p7p8p</description></item><item><title>待ち牌トレーニング: 同一牌3枚使いまでの一色手</title><link>https://mj.maku.blog/p/7agzoen/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/7agzoen/</guid><description>2m2m3m3m4m4m5m5m6m6m6m7m8m 答え 2m5m 3m6m9m 待ち 1s2s3s3s3s4s4s4s5s5s5s6s7s 答え 1s3s4s5s7s8s 待ち 3p3p3p4p4p5p5p6p6p7p7p7p8p 答え 3p6p7p8p9p 待ち 2m3m4m5m5m5m6m6m7m7m8m8m8m 答え 2m5m6m7m8m 待ち 1s2s3s4s4s5s6s6s7s8s9s9s9s 答え 1s4s5s7s 待ち 2p3p4p4p5p5p6p7p7p7p5z5z5z 答え 2p5p 3p6p 待ち 5m6m6m7m7m7m8m5z5z5z7z7z7z 答え 4m7m 待ち。 ここから 6m 引きなら、打 5m で 6m7m8m9m 待ちへ移行（四暗刻含み）。 5m 引きなら、打 8m で 4m5m6m7m 待ちへ移行（四暗刻含み）。 9m 引きはツモ切りがよさそう。 1s1s2s3s3s3s4s5s5s5s4z4z4z 答え 1s2s3s 待ち。 スーパーヅガンでヤスが上がってた形。 1s ツモなら三暗刻、2s なら一盃口、3s なら出上がりでも三暗刻になります。 1p2p3p4p5p5p5p6p7p8p5z5z5z 答え 1p3p4p6p9p 待ち 3m3m3m4m5m5m5m6m7m7m7m8m9m 答え 5m6m7m 待ち 1s1s2s3s4s4s5s6s7s7s7s8s9s 答え 1s7s 待ち。 端っこの構成が 11234 という形の場合は、1 は雀頭かシャボ待ちの候補にしかなり得ないということを考えるとわかりやすいです。 2p2p3p3p3p4p4p4p5p6p5z5z5z 答え 2p3p4p6p7p 待ち 4m4m4m5m6m6m6m7m8m8m4z4z4z 答え 6m7m8m 待ち。 一盃口の形を忘れがち。 3p3p4p4p5p6p7p8p8p8p1z1z1z 答え 2p3p4p5p 待ち。 これは比較的イージー。 1m2m2m3m3m4m5m6m7m8m9m9m9m 答え 1m4m7m 、2m5m8m 待ち。 2m3m4m5m6m7m8m9m9m9m に余分な 1m2m3m がくっついただけの形。 2s2s3s3s3s4s4s4s5s6s7s8s9s 答え 3s6s9s 4s7s 2s 待ち 3p3p3p4p4p4p5p6p7p8p9p2z2z 答え 4p7p2z 待ち。 字牌が頭候補になるパターンは、あまり待ちの数は多くなりません。 1m2m3m4m4m5m6m6m7m8m9m9m9m 答え 1p4p5p7p 待ち。 清一の待ちは、小さい方からメンツ or トイツを抜く、大きい方からメンツ or トイツを抜く、という操作をすると浮かび上がってきます。 この例では、小さい方から 1m2m3m を抜くと 5m 待ちが浮かび上がり、大きい方から 9m9m9m 、6m7m8m と抜いていくと 1m4m7m 待ちが浮かび上がります。 1s1s2s2s3s3s3s4s5s6s6s7s8s 答え 1s2s3s6s9s 待ち</description></item><item><title>待ち牌トレーニング: 同一牌4枚使いの一色手</title><link>https://mj.maku.blog/p/o3ahpv3/</link><pubDate>Mon, 04 Jan 2021 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/o3ahpv3/</guid><description>3p4p5p5p5p6p6p6p6p7p7p8p8p 2p5p8p9p 待ち
-1m1m2m2m2m2m3m3m4m4m5m6m7m 1m4m5m8m 待ち
-1p1p1p1p2p2p3p3p4p4p5p5p6p 2p3p5p6p 待ち
-3m3m4m4m4m4m5m1z1z1z2z2z2z 2m5m 3m6m 待ち。この形は時々あるので、一瞬で待ちがわかるように覚えておくべきです。槓子の左右に2枚＋1枚の形はリャンメンx2の待ちになり強いので、積極的にこの形になるよう狙っていきましょう。
-2m3m4m4m4m4m5m1z1z1z2z2z2z 2m5m 3m6m 待ち。 1つ前の形のバリエーションで、これも同じ待ちになります（リャンメンx2ではなく、リャンメン+ノベタンですが）。 やはり、槓子の左右に2枚＋1枚の形は好形ということです。
-3s3s3s3s4s5s5s5z5z5z6z6z6z 2s5s 4s 待ち。 一盃口の待ちを忘れないように。
-1p2p3p3p3p3p4p5p6p7p3z3z3z 1p4p7p 2p5p8p 待ち。めっちゃ広い待ち。
-4s4s4s4s5s6s6s6s7s8s5z5z5z 3s5s6s9s 待ち
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>待ち牌 on まくまく麻雀ノート</title><link>https://mj.maku.blog/p/z4u6q5w/</link><description>Recent content in 待ち牌 on まくまく麻雀ノート</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://mj.maku.blog/p/z4u6q5w/index.xml" rel="self" type="application/rss+xml"/><item><title>多面待ちパターン (1) 基本形</title><link>https://mj.maku.blog/p/gi89jax/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/gi89jax/</guid><description>&lt;p>簡単なものは萬子、ちょっと難し目のものは筒子（ピンズ）で表示してあります。&lt;/p>
+&lt;table>
+ &lt;tr>&lt;th style="width: 17em;">テンパイ系&lt;/th>&lt;th>待ち牌&lt;/th>&lt;th>待ち牌枚数&lt;/th>&lt;/tr>
+ &lt;tr>&lt;th colspan="3">4枚&lt;/th>&lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2m2m2m3m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1m4m3m&lt;/span>
+&lt;/td>&lt;td>11枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">1m1m1m2m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">2m3m&lt;/span>
+&lt;/td>&lt;td>7枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">1m1m1m3m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">2m3m&lt;/span>
+&lt;/td>&lt;td>7枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>&lt;th colspan="3">5枚&lt;/th>&lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2m3m4m5m6m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1m4m7m&lt;/span>
+&lt;/td>&lt;td>11枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>&lt;th colspan="3">7枚&lt;/th>&lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">3m4m5m6m7m7m7m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">2m5m8m3m6m&lt;/span>
+&lt;/td>&lt;td>17枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">5m6m7m8m9m9m9m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">4m7m5m8m&lt;/span>
+&lt;/td>&lt;td>13枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">6m6m6m7m8m8m8m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">5m6m7m8m9m&lt;/span>
+&lt;/td>&lt;td>13枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">1p2p3p3p3p3p4p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1p4p2p5p&lt;/span>
+&lt;/td>&lt;td>13枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p3p3p3p3p4p5p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1p4p2p5p&lt;/span>
+&lt;/td>&lt;td>13枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p3p3p3p3p4p4p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1p4p2p5p&lt;/span>
+&lt;/td>&lt;td>13枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p2p3p3p3p3p4p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1p4p2p5p&lt;/span>
+&lt;/td>&lt;td>13枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p2p2p4p6p6p6p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">3p4p5p&lt;/span>
+&lt;/td>&lt;td>11枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">1p2p2p2p2p3p4p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1p4p3p&lt;/span>
+&lt;/td>&lt;td>9枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">1m2m3m4m5m6m7m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1m4m7m&lt;/span>
+&lt;/td>&lt;td>9枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">3m3m4m4m4m5m5m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">3m4m5m&lt;/span>
+&lt;/td>&lt;td>5枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">1p1p1p1p2p2p3p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">2p3p&lt;/span>
+&lt;/td>&lt;td>5枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>&lt;th colspan="3">10枚&lt;/th>&lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2m2m2m3m4m5m6m7m7m7m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1m4m7m2m5m8m3m6m&lt;/span>
+&lt;/td>&lt;td>22枚&lt;/td>
+ &lt;/tr>
+ &lt;tr>&lt;th colspan="3">13枚&lt;/th>&lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">1m1m1m2m3m4m5m6m7m8m9m9m9m&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1m4m7m2m5m8m3m6m9m&lt;/span>
+&lt;/td>&lt;td>23枚&lt;/td>
+ &lt;/tr>
+&lt;/table>
+&lt;p>&lt;span class="xMj">3p3p3p3p4p5p6p&lt;/span>
+ という &lt;span class="xMj">6p&lt;/span>
+ 単騎の形がありますが、ここからは &lt;span class="xMj">2p4p5p7p&lt;/span>
+ のいずれを引いても多面待ちへの変化があるため、&lt;span class="xMj">6p&lt;/span>
+ 単騎リーチや、カンは控えた方がよいです。
+&lt;span class="xMj">1p&lt;/span>
+ を先に引いた場合には、&lt;span class="xMj">3p&lt;/span>
+ をカンしてリーチが面白いです。&lt;/p></description></item><item><title>多面待ちパターン (2) 複合形</title><link>https://mj.maku.blog/p/2o6r4d3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mj.maku.blog/p/2o6r4d3/</guid><description>&lt;table>
+ &lt;tr>&lt;th style="width: 17em;">テンパイ系&lt;/th>&lt;th>待ち牌&lt;/th>&lt;th>説明&lt;/th>&lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2s3s3s4s4s5s5s6s5z5z5z6z6z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1s4s7s&lt;/span>
+&lt;/td>
+ &lt;td>実は &lt;span class="xMj">2s3s4s5s6s&lt;/span>
+ と同じ。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p3p3p4p4p4p4p5z5z5z6z6z6z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">2p5p3p&lt;/span>
+&lt;/td>
+ &lt;td>実は &lt;span class="xMj">3p4p4p4p&lt;/span>
+ と同じ。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">5p5p6p6p6p7p7p8p9p9p5z5z5z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">4p7p8p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p2p3p3p3p4p4p4p5p7p5z5z5z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">6p7p&lt;/span>
+&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p2p3p3p3p4p4p5p5z5z5z6z6z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1p4p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p3p3p3p4p4p4p5p5z5z5z6z6z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">2p5p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">3p4p&lt;/span>
+ の両面待ち。どちらでも一盃口になる面白い形。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p3p4p4p4p5p5p5p6p6p5z5z5z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1p2p4p5p6p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">1p1p1p2p2p3p4p5p6p7p4z4z4z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">2p5p8p3p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p2p2p3p3p4p5p6p7p8p4z4z4z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1p4p3p6p9p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">3p3p4p4p4p5p5p5p6p7p4z4z4z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">3p4p5p7p8p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">2p2p2p3p3p4p4p5p5p6p6p7p8p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">1p4p7p3p6p9p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">1p2p3p3p3p4p4p5p5p5p6p7p8p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">2p5p8p3p4p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">5p5p6p6p7p7p8p9p9p9p1z1z1z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">4p7p5p8p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">5p6p7p8p9p9p9p&lt;/span>
+ と同じ。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">4p5p5p6p6p7p7p8p9p9p9p1z1z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">3p6p9p1z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">4p5p6p7p8p9p9p9p1z1z&lt;/span>
+ と同じ。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">3s4s5s6s7s7s7s8s8s8s4z4z4z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">2s5s8s3s6s7s&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">4p4p5p6p6p7p7p7p8p8p5z5z5z&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">5p6p9p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">3p3p3p4p4p4p5p5p6p6p6p7p7p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">2p4p5p6p7p8p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;span class="xMj">1p2p3p5p6p6p6p6p7p8p9p9p9p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;span class="xMj">4p5p7p8p&lt;/span>
+&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+&lt;/table></description></item><item><title>待ち牌トレーニング: 同一牌3枚使いまでの一色手</title><link>https://mj.maku.blog/p/7agzoen/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/7agzoen/</guid><description>&lt;p>&lt;span class="xMjCenter">2m2m3m3m4m4m5m5m6m6m6m7m8m&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-783561429" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-783561429">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">2m5m&lt;/span>
+ &lt;span class="xMj">3m6m9m&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1s2s3s3s3s4s4s4s5s5s5s6s7s&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-648531972" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-648531972">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">1s3s4s5s7s8s&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">3p3p3p4p4p5p5p6p6p7p7p7p8p&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-471926385" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-471926385">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">3p6p7p8p9p&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">2m3m4m5m5m5m6m6m7m7m8m8m8m&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-673821549" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-673821549">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">2m5m6m7m8m&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1s2s3s4s4s5s6s6s7s8s9s9s9s&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-128379645" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-128379645">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">1s4s5s7s&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">2p3p4p4p5p5p6p7p7p7p5z5z5z&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-698425731" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-698425731">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">2p5p&lt;/span>
+ &lt;span class="xMj">3p6p&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">5m6m6m7m7m7m8m5z5z5z7z7z7z&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-564137982" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-564137982">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">4m7m&lt;/span>
+ 待ち。
+ここから &lt;span class="xMj">6m&lt;/span>
+ 引きなら、打 &lt;span class="xMj">5m&lt;/span>
+ で &lt;span class="xMj">6m7m8m9m&lt;/span>
+ 待ちへ移行（四暗刻含み）。
+&lt;span class="xMj">5m&lt;/span>
+ 引きなら、打 &lt;span class="xMj">8m&lt;/span>
+ で &lt;span class="xMj">4m5m6m7m&lt;/span>
+ 待ちへ移行（四暗刻含み）。
+&lt;span class="xMj">9m&lt;/span>
+ 引きはツモ切りがよさそう。
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1s1s2s3s3s3s4s5s5s5s4z4z4z&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-236758914" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-236758914">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">1s2s3s&lt;/span>
+ 待ち。
+スーパーヅガンでヤスが上がってた形。
+&lt;span class="xMj">1s&lt;/span>
+ ツモなら三暗刻、&lt;span class="xMj">2s&lt;/span>
+ なら一盃口、&lt;span class="xMj">3s&lt;/span>
+ なら出上がりでも三暗刻になります。
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1p2p3p4p5p5p5p6p7p8p5z5z5z&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-462381795" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-462381795">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">1p3p4p6p9p&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">3m3m3m4m5m5m5m6m7m7m7m8m9m&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-613749258" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-613749258">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">5m6m7m&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1s1s2s3s4s4s5s6s7s7s7s8s9s&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-379254186" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-379254186">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">1s7s&lt;/span>
+ 待ち。
+端っこの構成が 11234 という形の場合は、1 は雀頭かシャボ待ちの候補にしかなり得ないということを考えるとわかりやすいです。
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">2p2p3p3p3p4p4p4p5p6p5z5z5z&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-957213864" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-957213864">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">2p3p4p6p7p&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">4m4m4m5m6m6m6m7m8m8m4z4z4z&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-278416359" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-278416359">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">6m7m8m&lt;/span>
+ 待ち。
 一盃口の形を忘れがち。
-4m5m5m6m6m7m7m7m7m8m6z6z6z 3m6m9m 5m8m 待ち</description></item><item><title>待ち牌からの手牌構成クイズ</title><link>https://mj.maku.blog/p/5fb3x83/</link><pubDate>Wed, 26 Dec 2018 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/5fb3x83/</guid><description>7枚構成 問題 7枚で、4p5p6p 待ちを2種類作ってください。
-答え 4p4p5p5p5p6p6p
-3p3p3p5p7p7p7p
-問題 7枚で、4p5p7p8p 待ちを5種類作ってください。
-答え 4p5p6p6p6p6p7p
-5p6p6p6p6p7p8p
-5p5p6p6p6p6p7p
-5p6p6p6p6p7p7p
-5p6p7p8p9p9p9p
-6 が 4 枚あるときに、その周りに 3 枚くっつくと、どんな形でも 6 を囲む両面待ち（4-7 5-8 待ち）になるということですね。</description></item></channel></rss>
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">3p3p4p4p5p6p7p8p8p8p1z1z1z&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-429371568" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-429371568">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">2p3p4p5p&lt;/span>
+ 待ち。
+これは比較的イージー。
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1m2m2m3m3m4m5m6m7m8m9m9m9m&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-156348792" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-156348792">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">1m4m7m&lt;/span>
+、&lt;span class="xMj">2m5m8m&lt;/span>
+ 待ち。
+&lt;span class="xMj">2m3m4m5m6m7m8m9m9m9m&lt;/span>
+ に余分な &lt;span class="xMj">1m2m3m&lt;/span>
+ がくっついただけの形。
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">2s2s3s3s3s4s4s4s5s6s7s8s9s&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-513947826" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-513947826">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">3s6s9s&lt;/span>
+ &lt;span class="xMj">4s7s&lt;/span>
+ &lt;span class="xMj">2s&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">3p3p3p4p4p4p5p6p7p8p9p2z2z&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-192468573" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-192468573">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">4p7p2z&lt;/span>
+ 待ち。
+字牌が頭候補になるパターンは、あまり待ちの数は多くなりません。
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1m2m3m4m4m5m6m6m7m8m9m9m9m&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-368514729" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-368514729">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">1p4p5p7p&lt;/span>
+ 待ち。
+清一の待ちは、小さい方からメンツ or トイツを抜く、大きい方からメンツ or トイツを抜く、という操作をすると浮かび上がってきます。
+この例では、小さい方から &lt;span class="xMj">1m2m3m&lt;/span>
+ を抜くと &lt;span class="xMj">5m&lt;/span>
+ 待ちが浮かび上がり、大きい方から &lt;span class="xMj">9m9m9m&lt;/span>
+、&lt;span class="xMj">6m7m8m&lt;/span>
+ と抜いていくと &lt;span class="xMj">1m4m7m&lt;/span>
+ 待ちが浮かび上がります。
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1s1s2s2s3s3s3s4s5s6s6s7s8s&lt;/span>
+
+
+&lt;div class="xAccordion">
+ &lt;input id="id-167249385" type="checkbox">
+ &lt;label class="xAccordion_title" for="id-167249385">答え&lt;/label>
+ &lt;div class="xAccordion_body">
+ 
+&lt;span class="xMj">1s2s3s6s9s&lt;/span>
+ 待ち
+
+ &lt;/div>
+&lt;/div>
+
+&lt;/p></description></item><item><title>待ち牌トレーニング: 同一牌4枚使いの一色手</title><link>https://mj.maku.blog/p/o3ahpv3/</link><pubDate>Mon, 04 Jan 2021 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/o3ahpv3/</guid><description>&lt;p>&lt;span class="xMjCenter">3p4p5p5p5p6p6p6p6p7p7p8p8p&lt;/span>
+
+&lt;span class="xMj">2p5p8p9p&lt;/span>
+ 待ち&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1m1m2m2m2m2m3m3m4m4m5m6m7m&lt;/span>
+
+&lt;span class="xMj">1m4m5m8m&lt;/span>
+ 待ち&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1p1p1p1p2p2p3p3p4p4p5p5p6p&lt;/span>
+
+&lt;span class="xMj">2p3p5p6p&lt;/span>
+ 待ち&lt;/p>
+&lt;p>&lt;span class="xMjCenter">3m3m4m4m4m4m5m1z1z1z2z2z2z&lt;/span>
+
+&lt;span class="xMj">2m5m&lt;/span>
+ &lt;span class="xMj">3m6m&lt;/span>
+ 待ち。この形は時々あるので、一瞬で待ちがわかるように覚えておくべきです。&lt;strong>槓子の左右に2枚＋1枚&lt;/strong>の形はリャンメンx2の待ちになり強いので、積極的にこの形になるよう狙っていきましょう。&lt;/p>
+&lt;p>&lt;span class="xMjCenter">2m3m4m4m4m4m5m1z1z1z2z2z2z&lt;/span>
+
+&lt;span class="xMj">2m5m&lt;/span>
+ &lt;span class="xMj">3m6m&lt;/span>
+ 待ち。
+1つ前の形のバリエーションで、これも同じ待ちになります（リャンメンx2ではなく、リャンメン+ノベタンですが）。
+やはり、槓子の左右に2枚＋1枚の形は好形ということです。&lt;/p>
+&lt;p>&lt;span class="xMjCenter">3s3s3s3s4s5s5s5z5z5z6z6z6z&lt;/span>
+
+&lt;span class="xMj">2s5s&lt;/span>
+ &lt;span class="xMj">4s&lt;/span>
+ 待ち。
+一盃口の待ちを忘れないように。&lt;/p>
+&lt;p>&lt;span class="xMjCenter">1p2p3p3p3p3p4p5p6p7p3z3z3z&lt;/span>
+
+&lt;span class="xMj">1p4p7p&lt;/span>
+ &lt;span class="xMj">2p5p8p&lt;/span>
+ 待ち。めっちゃ広い待ち。&lt;/p>
+&lt;p>&lt;span class="xMjCenter">4s4s4s4s5s6s6s6s7s8s5z5z5z&lt;/span>
+
+&lt;span class="xMj">3s5s6s9s&lt;/span>
+ 待ち&lt;/p>
+&lt;p>一盃口の形を忘れがち。&lt;/p>
+&lt;p>&lt;span class="xMjCenter">4m5m5m6m6m7m7m7m7m8m6z6z6z&lt;/span>
+
+&lt;span class="xMj">3m6m9m&lt;/span>
+ &lt;span class="xMj">5m8m&lt;/span>
+ 待ち&lt;/p></description></item><item><title>待ち牌からの手牌構成クイズ</title><link>https://mj.maku.blog/p/5fb3x83/</link><pubDate>Wed, 26 Dec 2018 00:00:00 +0900</pubDate><guid>https://mj.maku.blog/p/5fb3x83/</guid><description>&lt;h2 id="7枚構成">7枚構成&lt;/h2>
+&lt;h3 id="問題">問題&lt;/h3>
+&lt;p>7枚で、&lt;span class="xMj">4p5p6p&lt;/span>
+待ちを2種類作ってください。&lt;/p>
+&lt;h4 id="答え">答え&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;span class="xMj">4p4p5p5p5p6p6p&lt;/span>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;span class="xMj">3p3p3p5p7p7p7p&lt;/span>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="問題-1">問題&lt;/h3>
+&lt;p>7枚で、&lt;span class="xMj">4p5p7p8p&lt;/span>
+待ちを5種類作ってください。&lt;/p>
+&lt;h4 id="答え-1">答え&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;span class="xMj">4p5p6p6p6p6p7p&lt;/span>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;span class="xMj">5p6p6p6p6p7p8p&lt;/span>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;span class="xMj">5p5p6p6p6p6p7p&lt;/span>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;span class="xMj">5p6p6p6p6p7p7p&lt;/span>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;span class="xMj">5p6p7p8p9p9p9p&lt;/span>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>6 が 4 枚あるときに、その周りに 3 枚くっつくと、どんな形でも 6 を囲む両面待ち（4-7 5-8 待ち）になるということですね。&lt;/p></description></item></channel></rss>
